@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Demo 21
-permalink: /demo21/
+permalink: /
 custom_color: sky
 custom_font: urbanist
 scroll_top_btn:

@@ -1,5 +1,5 @@
-baseurl: ""
-url: ""
+baseurl: "/ishs2026"
+url: "https://colab-uff.github.io/"
 
 # Build settings
 markdown: kramdown

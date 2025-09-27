@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: demo21
 title: Home
 permalink: /
 custom_color: grape

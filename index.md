@@ -7,6 +7,11 @@ custom_font: urbanist
 scroll_top_btn:
   enable: true
 
+# Banner Section
+banner:
+  enable: true
+  text: "✨ Jekyll version of Sandbox is released! Grab a copy <a href=\"#\" class=\"link-white hover d-inline-flex align-items-center\" target=\"_blank\">here <i class=\"uil uil-arrow-up-right\"></i></a>"
+
 # Hero Section
 hero:
   title: A digital agency specializing on <span class="rotator-fade text-primary">mobile design,web design,3D animation</span>

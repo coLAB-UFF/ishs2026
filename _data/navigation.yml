@@ -9,7 +9,7 @@ main:
   - title: Submissions
     type: dropdown
     items:
-      - title: Special Interest Group Panels
+      - title: Special Interest Groups
         submenu:
           - title: Online Humor
             url: /about/

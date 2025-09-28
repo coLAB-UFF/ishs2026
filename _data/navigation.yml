@@ -79,6 +79,28 @@ main:
             url: /about2/
           - title: Tours
             url: /about/
+  - title: Welcome
+    type: dropdown
+    items:
+      - title: Local Organizing Committee
+        url: /demo1/
+      - title: Scientific Organing Committee
+        url: /demo2/
+      - title: ISHS Board
+        url: /demo1/
+  - title: Student Awards
+    type: dropdown
+    items:
+      - title: ISHS Graduate Student Awards (GSA)
+        url: /demo1/
+      - title: The Don and Alleen Nilsen Young Scholars Award (DANYS)
+        url: /demo2/
+      - title: Christie Davies Award (CDA)
+        url: /demo1/
+      - title: Brazilian Portuguese Special Student Awards
+        url: /demo1/
+      - title: Applications
+        url: /demo1/
 
 # One-page navigation configuration
 onepage:

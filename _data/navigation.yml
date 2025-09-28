@@ -6,20 +6,32 @@ main:
         url: /demo1/
       - title: Register Now
         url: /demo2/
-  - title: Pages
+  - title: Submissions
     type: dropdown
     items:
-      - title: About
+      - title: Special Interest Group Panels
         submenu:
-          - title: About I
+          - title: Online Humor
             url: /about/
-          - title: About II
+          - title: Computational Humor
             url: /about2/
-      - title: Services
+          - title: Humor and Religion
+            url: /about/
+          - title: Humor and the Law
+            url: /about2/
+          - title: Humor and Political Struggles in the Global South
+            url: /about/
+          - title: Humor and the Art of Persuasion
+            url: /about2/
+          - title: Humor as a Human Right
+            url: /about/
+          - title: Humor and the Right
+            url: /about2/
+      - title: Call for Papers
         submenu:
-          - title: Services I
+          - title: Papers
             url: /services/
-          - title: Services II
+          - title: Posters
             url: /services2/
 
 # One-page navigation configuration

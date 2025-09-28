@@ -2,7 +2,7 @@
 layout: default
 title: ISHS 2026
 permalink: /
-custom_color: sky
+custom_color: green
 custom_font: urbanist
 scroll_top_btn:
   enable: true

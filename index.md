@@ -14,13 +14,13 @@ banner:
 
 # Hero Section
 hero:
-  title: A digital agency specializing on <span class="rotator-fade text-primary">mobile design,web design,3D animation</span>
-  subtitle: We are an award winning design agency that strongly believes in the power of creative ideas.
+  title: International Society for Humor Studies <span class="rotator-fade text-primary">Niterói, Brazil 2026</span>
+  subtitle: Where the zueira never ends.
   button:
-    label: Get Started
+    label: Register Now
     url: "#"
     class: btn btn-lg btn-primary rounded-pill
-  image: /assets/img/illustrations/i21.png
+  image: https://ishs2025.pl/wp-content/uploads/2024/11/ISHS_logo_horizontal_1.png
   image2x: /assets/img/illustrations/i21@2x.png
   trust_text: Trusted by over 2K+ clients across the world
   

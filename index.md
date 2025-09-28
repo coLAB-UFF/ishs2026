@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Demo 21
+title: ISHS 2026
 permalink: /
 custom_color: sky
 custom_font: urbanist
@@ -20,8 +20,8 @@ hero:
     label: Get Started
     url: "#"
     class: btn btn-lg btn-primary rounded-pill
-  image: /assets/img/illustrations/i21.webp
-  image2x: /assets/img/illustrations/i21@2x.webp
+  image: /assets/img/illustrations/i21.png
+  image2x: /assets/img/illustrations/i21@2x.png
   trust_text: Trusted by over 2K+ clients across the world
   
 # Services Section
@@ -29,12 +29,12 @@ services:
   title: What We Do?
   subtitle: The service we offer is specifically designed to meet your needs.
   service_items:
-    - image: /assets/img/illustrations/i24.webp
-      image2x: /assets/img/illustrations/i24@2x.webp
+    - image: /assets/img/illustrations/i24.png
+      image2x: /assets/img/illustrations/i24@2x.png
       title: Web Design
       text: Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget. Fusce dapibus tellus.
-    - image: /assets/img/illustrations/i19.webp
-      image2x: /assets/img/illustrations/i19@2x.webp
+    - image: /assets/img/illustrations/i19.png
+      image2x: /assets/img/illustrations/i19@2x.png
       title: Graphic Design
       text: Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet. Sed posuere consectetur.
     - image: /assets/img/illustrations/i18.png

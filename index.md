@@ -145,7 +145,7 @@ footer_cta:
     otherClassList="ms-lg-4"
     otherBtn=true
     otherBtnClassList="btn btn-sm btn-primary rounded-pill"
-    otherBtnText="Contact"
+    otherBtnText="Register Now"
     otherBtnLink="/contact/"     
 %}
 </header>

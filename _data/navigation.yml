@@ -1,11 +1,30 @@
 main:
- - title: Registration
+  - title: Demos
+    type: mega-menu-img
+    items:
+      - title: Demo2
+        url: /demo1/
+        image: /assets/img/demos/mi1.webp
+        image2x: /assets/img/demos/mi1@2x.webp
+      - title: Demo2
+        url: /demo2/
+        image: /assets/img/demos/mi2.webp
+        image2x: /assets/img/demos/mi2@2x.webp
+  - title: Pages
     type: dropdown
     items:
-      - title: Conference Fees
-        url: /fees/
-      - title: Register Now
-        url: /register/
+      - title: About
+        submenu:
+          - title: About I
+            url: /about/
+          - title: About II
+            url: /about2/
+      - title: Services
+        submenu:
+          - title: Services I
+            url: /services/
+          - title: Services II
+            url: /services2/
 
 # One-page navigation configuration
 onepage:

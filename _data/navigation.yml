@@ -33,6 +33,52 @@ main:
             url: /services/
           - title: Posters
             url: /services2/
+  - title: Programme
+    type: dropdown
+    items:
+      - title: Key Dates
+        url: /demo1/
+      - title: Conference Schedule
+        url: /demo2/
+      - title: Plenary Sessions
+        url: /demo1/
+      - title: SIG Sessions
+        url: /demo2/
+  - title: Plan Your Trip
+    type: dropdown-columns
+    items:
+      - title: Housing
+        submenu:
+          - title: Hotels and Accomodations
+            url: /about/
+          - title: Venue
+            url: /about2/
+          - title: Conference Facilities
+            url: /about/
+          - title: Meeting Spaces
+            url: /about2/
+          - title: Accessibility
+            url: /about/
+      - title: Dining
+        submenu:
+          - title: On-Campus
+            url: /about/
+          - title: Off-Campus Restaurants
+            url: /about2/
+          - title: Off-Campus Quick Meals
+            url: /about/
+      - title: Travel
+        submenu:
+          - title: Visas
+            url: /about/
+          - title: Arrivals
+            url: /about2/
+          - title: Airport Shuttles and Public Transportation
+            url: /about/
+          - title: Explore Niterói
+            url: /about2/
+          - title: Tours
+            url: /about/
 
 # One-page navigation configuration
 onepage:

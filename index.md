@@ -20,7 +20,7 @@ hero:
     label: Register Now
     url: "#"
     class: btn btn-lg btn-primary rounded-pill
-  image: "https://ishs2025.pl/wp-content/uploads/2024/11/ISHS_logo_horizontal_1.png"
+  image: "./assets/img/illustrations/ui2.webp"
   image2x: ""
   trust_text: Trusted by over 2K+ clients across the world
   

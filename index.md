@@ -154,6 +154,7 @@ footer_cta:
 {% include components/sections/demo21/hero.html %}
 {% include components/sections/demo21/services.html %}
 {% include components/sections/demo21/strategy.html %}
+{% include components/sections/demo21/why-us.html %}
 {% include components/sections/demo21/company-facts.html %}
 {% include components/sections/demo21/team.html %}
 {% include components/sections/demo21/projects.html %}

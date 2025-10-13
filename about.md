@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: About ISHS 2026
 permalink: /about/
-custom_color:
+custom_color: green
 custom_font: 
 scroll_top_btn:
   enable: true
@@ -113,10 +113,6 @@ contact:
 
 {% include components/sections/about/hero.html %}
 {% include components/sections/about/who-we-are.html %}
-{% include components/sections/about/testimonials.html %}
-{% include components/sections/about/team.html %}
-{% include components/sections/about/stats.html %}
-{% include components/sections/about/contact.html %}
 
 {% include components/footer/footer.html 
   style="default"

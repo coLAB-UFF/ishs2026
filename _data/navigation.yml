@@ -3,47 +3,47 @@ main:
     type: dropdown
     items:
       - title: Conference Fees
-        url: /demo1/
+        url: /fees/
       - title: Register Now
-        url: /demo2/
+        url: /soon/
   - title: Submissions
     type: dropdown
     items:
       - title: Special Interest Groups
         submenu:
           - title: Online Humor
-            url: /about/
+            url: /soon/
           - title: Computational Humor
-            url: /about2/
+            url: /soon/
           - title: Humor and Religion
-            url: /about/
+            url: /soon/
           - title: Humor and the Law
-            url: /about2/
+            url: /soon/
           - title: Humor and Political Struggles in the Global South
-            url: /about/
+            url: /soon/
           - title: Humor and the Art of Persuasion
-            url: /about2/
+            url: /soon/
           - title: Humor as a Human Right
-            url: /about/
+            url: /soon/
           - title: Humor and the Right
-            url: /about2/
+            url: /soon/
       - title: Call for Papers
         submenu:
           - title: Papers
-            url: /services/
+            url: /soon/
           - title: Posters
-            url: /services2/
+            url: /soon/
   - title: Programme
     type: dropdown
     items:
       - title: Key Dates
-        url: /demo1/
+        url: /soon/
       - title: Conference Schedule
-        url: /demo2/
+        url: /soon/
       - title: Plenary Sessions
-        url: /demo1/
+        url: /soon/
       - title: SIG Sessions
-        url: /demo2/
+        url: /soon/
   - title: Plan Your Trip
     type: dropdown-columns
     items:
@@ -92,15 +92,15 @@ main:
     type: dropdown
     items:
       - title: ISHS Graduate Student Awards (GSA)
-        url: /demo1/
+        url: /soon/
       - title: The Don and Alleen Nilsen Young Scholars Award (DANYS)
-        url: /demo2/
+        url: /soon/
       - title: Christie Davies Award (CDA)
-        url: /demo1/
+        url: /soon/
       - title: Brazilian Portuguese Special Student Awards
-        url: /demo1/
+        url: /soon/
       - title: Applications
-        url: /demo1/
+        url: /soon/
 
 # One-page navigation configuration
 onepage:

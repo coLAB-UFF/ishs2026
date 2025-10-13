@@ -3,7 +3,7 @@ title: "Modern Brand Identity Design"
 category: "Design"
 description: "A clean, modern brand identity design for a tech startup with a focus on sustainability."
 layout: project/featured_image
-color: green
+custom_color: green
 thumbnail: "/assets/img/photos/pp26.webp"
 hero_image: "/assets/img/photos/pp7.webp"
 about_title: "About the Project"

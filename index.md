@@ -67,8 +67,8 @@ strategy:
 why_us:
   title: Why Choose Us?
   subtitle: We bring solutions to make life easier.
-  image: /assets/img/illustrations/i22.png
-  image2x: /assets/img/illustrations/i22@2x.png
+  image: /assets/img/illustrations/ui2.png
+  image2x: /assets/img/illustrations/ui2@2x.png
   accordion_items:
     - title: Professional Design
       text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
@@ -154,9 +154,6 @@ footer_cta:
 {% include components/sections/demo21/hero.html %}
 {% include components/sections/demo21/services.html %}
 {% include components/sections/demo21/strategy.html %}
-{% include components/sections/demo21/why-us.html %}
-{% include components/sections/demo21/company-facts.html %}
-{% include components/sections/demo21/faq.html %}
 
 </div>
 {% include components/footer/footer.html 

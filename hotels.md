@@ -22,7 +22,7 @@ gallery:
 
 # Additional content block appears after gallery
 additional_content: |
-  <h2 class="mb-4">H Niterói Hotel</h2>
+  <h2 class="mb-4">[H Niterói Hotel](https://hniteroi.com.br/)</h2>
   <p>Located near the iconic Niterói Museum of Contemporary Art, H Niterói is a sophisticated 4-star hotel featuring an outdoor pool, sauna, and an on-site restaurant. Additional amenities include a gym and complimentary Wi-Fi. Icaraí Beach is just 50 meters away. Rooms are equipped with air conditioning, cable TV, a minibar, and a hairdryer. The hotel is approximately a 7-minute drive from the IACS Gragoatá campus.</p>
 
   <h2 class="mb-4">Matiz Niterói Design Hotel</h2>

@@ -73,10 +73,6 @@ gallery:
 languages:
   - name: "En"
     url: "#"
-  - name: "De"
-    url: "#"
-  - name: "Es"
-    url: "#"
 
 default_language: "En"
 

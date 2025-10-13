@@ -1,7 +1,7 @@
 ---
 title: "Local Venue"
 category: "Housing"
-description: "The Institute of Art and Social Communication welcomes you."
+description: "Combining Rio’s bustling energy with Niterói’s more tranquil, welcoming atmosphere."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist

@@ -10,12 +10,12 @@ scroll_top_btn:
 # CTA Section 1
 cta1:
   enable: true
-  bg_image: /assets/img/illustrations/24503338_idea_01.webp
+  bg_image: "/assets/img/illustrations/24503338_idea_01.webp"
   title: "Coming Soon"
   text: "Something great is on the way! Check back soon to see what we’ve been working on."
   button:
     label: "Back to Home"
-    url: "/"
+    url: "https://colab-uff.github.io/ishs2026/"
     style: "btn btn-primary rounded-pill"
     
 ---

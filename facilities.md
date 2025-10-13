@@ -1,7 +1,7 @@
 ---
 title: "Conference Facilities"
 category: "Housing"
-description: "Meet up on the shores of Guanabara Bay."
+description: "The Institute of Art and Social Communication welcomes you aboard."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist

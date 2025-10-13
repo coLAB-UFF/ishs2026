@@ -81,8 +81,8 @@ why_us:
 # Company Facts Section
 company_facts:
   title: Conference Numbers
-  subtitle: Based on previous years, our expectations are high
-  text: We look forward to welcoming you in July 2026.
+  subtitle: We look forward to welcoming you in July 2026
+  text: Based on previous years, our expectations are high.
   counters:
     - icon: uil uil-presentation-check
       count: 300+

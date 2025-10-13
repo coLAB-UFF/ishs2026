@@ -1,76 +1,35 @@
 ---
-layout: projects/featured-image
-title: Page ISHS 2026
-permalink: /page/
-custom_color: green
-custom_font: 
-scroll_top_btn:
-  enable: true
+title: "Modern Brand Identity Design"
+category: "Design"
+description: "A clean, modern brand identity design for a tech startup with a focus on sustainability."
+layout: project/featured_image
+thumbnail: "/assets/img/photos/pp26.webp"
+hero_image: "/assets/img/photos/pp7.webp"
+about_title: "About the Project"
+client_name: "EcoTech Solutions"
+date: "2023-11-15"
+project_url: "https://example.com/project"
+previous_project: "/projects/another-project"
+next_project: "/projects/next-project"
 
-# Header / Hero Section
-hero:
-  title: "Hello! This is Sandbox"
-  subtitle: "A company turning ideas into beautiful things."
-  bg_image: /assets/img/photos/bg12.jpg
-  bg_color: "bg-gray"
+# Gallery images
+gallery:
+  - url: "/assets/img/photos/pp2.webp"
+    alt: "Brand logo variations"
+  - url: "/assets/img/photos/pp3.webp"
+    alt: "Brand color palette"
+  - url: "/assets/img/photos/pp4.webp"
+    alt: "Typography specimens" 
+  - url: "/assets/img/photos/pp5.webp"
+    alt: "Brand application examples"
 
-# Services Section
-services:
-  title: What We Do?
-  subtitle: The service we offer is specifically designed to meet your needs.
-  service_items:
-    - image: /assets/img/illustrations/i24.png
-      image2x: /assets/img/illustrations/i24@2x.png
-      title: Web Design
-      text: Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget. Fusce dapibus tellus.
-    - image: /assets/img/illustrations/i19.png
-      image2x: /assets/img/illustrations/i19@2x.png
-      title: Graphic Design
-      text: Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet. Sed posuere consectetur.
-    - image: /assets/img/illustrations/i18.png
-      image2x: /assets/img/illustrations/i18@2x.png
-      title: 3D Animation
-      text: Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna scelerisque.
-
-# Contact Section
-contact:
-  title: "Convinced yet? Let's make something great together."
-  icon: "telemarketer"
-  image: /assets/img/photos/about4.jpg
-  image2x: /assets/img/photos/about4@2x.jpg
-  info:
-    - icon: "location-pin-alt"
-      title: "Address"
-      text: "Moonshine St. 14/05 Light City, London, United Kingdom"
-    - icon: "phone-volume"
-      title: "Phone"
-      text: "00 (123) 456 78 90"
-    - icon: "envelope"
-      title: "E-mail"
-      text: "sandbox@email.com"
-      link: "mailto:sandbox@email.com"
+# Additional content block appears after gallery
+additional_content: |
+  <h2 class="mb-4">Design Process and Outcomes</h2>
+  <p>Our process began with in-depth research into the client's industry and competitors. We identified key differentiators and developed a visual language that would set them apart while conveying their core values of innovation, sustainability, and accessibility.</p>
+  <p>The final deliverables included a comprehensive brand guidelines document, website design system, marketing materials, and social media templates. The client successfully launched their rebranded platform resulting in a 40% increase in user engagement and positive feedback from stakeholders.</p>
 ---
-<div class="content-wrapper">
-<header class="wrapper bg-gray">
-{% include components/navbar/navbar.html 
-    classList="center-nav transparent navbar-light"
-    otherClassList="w-100 d-flex ms-auto"
-    otherLanguageSelect=true
-    otherBtn=true
-    otherBtnClassList="btn btn-sm btn-primary rounded-pill"
-    otherBtnText="Contact"
-    otherBtnLink="/contact"
-%}
-</header>
-<!-- /header -->
 
-{% include components/sections/about/hero.html %}
-{% include components/sections/about/page.html %}
+Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Integer posuere erat a ante venenatis. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum.
 
-{% include components/footer/footer.html 
-  style="default"
-  container_padding="pt-16 pt-md-18 pb-13 pb-md-15"
-  bg_color="bg-dark"
-  text_color="text-inverse"
-%}
-</div>
+Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.

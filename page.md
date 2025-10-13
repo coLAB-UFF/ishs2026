@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About ISHS 2026
-permalink: /about/
+title: Page ISHS 2026
+permalink: /page/
 custom_color: green
 custom_font: 
 scroll_top_btn:

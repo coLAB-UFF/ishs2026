@@ -35,11 +35,6 @@ cta1:
 </header>
 <!-- /header -->
 
-{% include components/sections/demo21/hero.html %}
-
-</div>
-
-
 <section class="wrapper image-wrapper bg-auto no-overlay bg-image text-center py-14 py-md-16 bg-map" data-image-src="{{ page.cta1.bg_image }}">
   <div class="container py-0 py-md-18">
     <div class="row">
@@ -51,6 +46,11 @@ cta1:
     </div>
   </div>
 </section>
+
+</div>
+
+
+
 
 {% include components/footer/footer.html 
   style="default"

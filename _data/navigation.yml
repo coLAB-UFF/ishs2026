@@ -50,35 +50,35 @@ main:
       - title: Housing
         submenu:
           - title: Hotels and Accomodations
-            url: /about/
+            url: /hotels/
           - title: Venue
-            url: /about2/
+            url: /venue/
           - title: Conference Facilities
-            url: /about/
+            url: /facilities/
           - title: Meeting Spaces
-            url: /about2/
+            url: /spaces/
           - title: Accessibility
-            url: /about/
+            url: /accessibility/
       - title: Dining
         submenu:
           - title: On-Campus
-            url: /about/
+            url: /dining/
           - title: Off-Campus Restaurants
-            url: /about2/
+            url: /restaurants/
           - title: Off-Campus Quick Meals
-            url: /about/
+            url: /quickmeals/
       - title: Travel
         submenu:
           - title: Visas
-            url: /about/
+            url: /visas/
           - title: Arrivals
-            url: /about2/
+            url: /arrivals/
           - title: Airport Shuttles and Public Transportation
-            url: /about/
+            url: /transportation/
           - title: Explore Niterói
-            url: /about2/
+            url: /explore/
           - title: Tours
-            url: /about/
+            url: /tours/
   - title: Welcome
     type: dropdown
     items:

@@ -3,12 +3,10 @@ title: "Modern Brand Identity Design"
 category: "Design"
 description: "A clean, modern brand identity design for a tech startup with a focus on sustainability."
 layout: project/featured_image
+color: green
 thumbnail: "/assets/img/photos/pp26.webp"
 hero_image: "/assets/img/photos/pp7.webp"
 about_title: "About the Project"
-client_name: "EcoTech Solutions"
-date: "2023-11-15"
-project_url: "https://example.com/project"
 previous_project: "/projects/another-project"
 next_project: "/projects/next-project"
 

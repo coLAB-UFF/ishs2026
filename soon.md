@@ -19,6 +19,27 @@ cta1:
     style: "btn btn-primary rounded-pill"
     
 ---
+<div class="content-wrapper">
+<header class="wrapper bg-light">
+{% include components/navbar/navbar.html 
+    topAlert=false
+    wrapperClass="bg-soft-primary"
+    classList="classic transparent navbar-light "
+    logoAlt="logo-dark"
+    otherClassList="ms-lg-4"
+    otherBtn=true
+    otherBtnClassList="btn btn-sm btn-primary rounded-pill"
+    otherBtnText="Register Now"
+    otherBtnLink="/contact/"     
+%}
+</header>
+<!-- /header -->
+
+{% include components/sections/demo21/hero.html %}
+
+</div>
+
+
 <section class="wrapper image-wrapper bg-auto no-overlay bg-image text-center py-14 py-md-16 bg-map" data-image-src="{{ page.cta1.bg_image }}">
   <div class="container py-0 py-md-18">
     <div class="row">
@@ -30,3 +51,12 @@ cta1:
     </div>
   </div>
 </section>
+
+{% include components/footer/footer.html 
+  style="default"
+  bg_color="bg-navy"
+  text_color="text-inverse" 
+  cta=true
+%}
+
+

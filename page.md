@@ -4,11 +4,10 @@ category: "Design"
 description: "A clean, modern brand identity design for a tech startup with a focus on sustainability."
 layout: project/featured_image
 custom_color: green
+custom_font: urbanist
 thumbnail: "/assets/img/photos/pp26.webp"
 hero_image: "/assets/img/photos/pp7.webp"
 about_title: "About the Project"
-previous_project: "/projects/another-project"
-next_project: "/projects/next-project"
 
 # Gallery images
 gallery:

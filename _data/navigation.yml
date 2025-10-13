@@ -83,11 +83,11 @@ main:
     type: dropdown
     items:
       - title: Local Organizing Committee
-        url: /demo1/
+        url: /organizing/
       - title: Scientific Organing Committee
-        url: /demo2/
+        url: /scientific/
       - title: ISHS Board
-        url: /demo1/
+        url: /board/
   - title: Student Awards
     type: dropdown
     items:

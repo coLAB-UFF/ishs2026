@@ -12,7 +12,7 @@ about_title: "Meeting Spaces"
 # Gallery images
 gallery:
   - url: "/assets/img/photos/pp2.webp"
-    alt: "Brand logo variations"
+    alt: "Brand mark variations"
   - url: "/assets/img/photos/pp3.webp"
     alt: "Brand color palette"
   - url: "/assets/img/photos/pp4.webp"

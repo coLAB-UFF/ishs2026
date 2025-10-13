@@ -31,7 +31,7 @@ services:
   service_items:
     - image: /assets/img/illustrations/i24.png
       image2x: /assets/img/illustrations/i24@2x.png
-      title: Keynote Speeches and Plenary Sessions
+      title: Keynotes and Plenary Sessions
       text: Join leading scholars and practitioners for thought-provoking talks that set the tone for our shared debates and inspire new research directions.
     - image: /assets/img/illustrations/i19.png
       image2x: /assets/img/illustrations/i19@2x.png

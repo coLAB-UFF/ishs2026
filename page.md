@@ -1,5 +1,5 @@
 ---
-layout: projects/sample-featured-image
+layout: projects/featured-image
 title: Page ISHS 2026
 permalink: /page/
 custom_color: green

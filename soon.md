@@ -35,7 +35,7 @@ cta1:
 </header>
 <!-- /header -->
 
-<section class="wrapper image-wrapper bg-auto no-overlay bg-image text-center py-14 py-md-16 bg-map" data-image-src="{{ page.cta1.bg_image }}">
+<section class="wrapper image-wrapper bg-auto no-overlay bg-image text-center py-14 py-md-16 bg-map" data-image-src="/assets/img/illustrations/24503338_idea_01.webp">
   <div class="container py-0 py-md-18">
     <div class="row">
       <div class="col-lg-6 col-xl-5 mx-auto">

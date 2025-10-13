@@ -22,46 +22,46 @@ hero:
     class: btn btn-lg btn-primary rounded-pill
   image: "./assets/img/illustrations/ui2.webp"
   image2x: ""
-  trust_text: Trusted by over 2K+ clients across the world
+  trust_text: The Fluminense Federal University proudly presents, for the first time in Majority World...
   
 # Services Section
 services:
-  title: What We Do?
-  subtitle: The service we offer is specifically designed to meet your needs.
+  title: Explore, Connect, and Be Inspired
+  subtitle: Stay up to date with the conference's main activities.
   service_items:
     - image: /assets/img/illustrations/i24.png
       image2x: /assets/img/illustrations/i24@2x.png
-      title: Web Design
-      text: Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget. Fusce dapibus tellus.
+      title: Keynote Speeches and Plenary Sessions
+      text: Join leading scholars and practitioners for thought-provoking talks that set the tone for our shared debates and inspire new research directions.
     - image: /assets/img/illustrations/i19.png
       image2x: /assets/img/illustrations/i19@2x.png
-      title: Graphic Design
-      text: Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet. Sed posuere consectetur.
+      title: Special Interest Groups
+      text: Engage in focused discussions with peers who share your research interests, fostering collaboration and advancing specialized topics.
     - image: /assets/img/illustrations/i18.png
       image2x: /assets/img/illustrations/i18@2x.png
-      title: 3D Animation
-      text: Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna scelerisque.
-
+      title: Cultural Activities
+      text: Experience the local culture through curated events that blend learning, art, and community in a welcoming and vibrant atmosphere.
+      
 # Strategy Section
 strategy:
-  title: Our Strategy
-  subtitle: Here are 3 working steps to organize our projects.
-  text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis.
-  text2: Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed consectetur.
+  title: Our Important Steps
+  subtitle: Niterói will be the epicenter of humor studies for a week.
+  text: The International Society for Humor Studies (ISHS) is the leading scholarly association dedicated to promoting interdisciplinary research on humor in its multiple dimensions, involving researchers from diverse fields such as communication, psychology, sociology, linguistics, philosophy, law, the arts, education, and health.
+  text2: In the year marking 50 years since the first interdisciplinary humor studies conference in 1976, the event will be held in Brazil for the first time. Don’t miss it!
   button:
     label: Learn More
     url: "#"
     class: btn btn-primary rounded-pill
   steps:
     - number: "01"
-      title: Collect Ideas
-      text: Nulla vitae elit libero pharetra augue dapibus.
+      title: Register
+      text: Ensure your participation in the conference and access all academic and cultural sessions!
     - number: "02"
-      title: Data Analysis
-      text: Vivamus sagittis lacus vel augue laoreet.
+      title: Submit
+      text: Present your research and join the ongoing exchange of ideas within our academic community.
     - number: "03"
-      title: Finalize Product
-      text: Cras mattis consectetur purus sit amet.
+      title: Follow the Program
+      text: Consult the schedule for panels, keynotes, and cultural activities throughout the event.
 
 # Why Choose Us Section
 why_us:
@@ -80,19 +80,19 @@ why_us:
 
 # Company Facts Section
 company_facts:
-  title: Company Facts
-  subtitle: We are proud of our design team
-  text: Just sit back and relax while we take care of your business needs for you.
+  title: Conference Numbers
+  subtitle: Based on previous years, our expectations are high
+  text: We look forward to welcoming you in July 2026.
   counters:
     - icon: uil uil-presentation-check
-      count: 1000+
-      text: Completed Projects
+      count: 300+
+      text: Expected Submissions
     - icon: uil uil-user-check
-      count: 50K+
-      text: Happy Customers
+      count: 500+
+      text: Scholars and Students
     - icon: uil uil-trophy
-      count: 20+
-      text: Awards Won
+      count: 4+
+      text: Awards
 
 # Team Section
 team:
@@ -129,11 +129,12 @@ faq:
 
 # Footer CTA
 footer_cta:
-  title: Join our community by using our services and grow your business.
+  title: Join our community by registering for the conference, submitting your work, and following our sessions and activities.
   button:
-    label: Try It For Free
+    label: Register Now
     url: "#"
     class: btn btn-primary rounded-pill
+    
 ---
 <div class="content-wrapper">
 <header class="wrapper bg-light">

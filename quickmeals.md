@@ -19,8 +19,10 @@ additional_content: |
   <br>
   <h2 class="mb-4"><a href="https://hungaralanches.com/">ETs - Bar e Lanchonete Niterói</a></h2>
   <p>A quirky, bohemian hangout blending sci-fi décor with Brazilian boteco vibes. ETs Bar is best known for its bold snacks — from loaded fries to calabresa sandwiches — and its laid-back atmosphere after sunset.</p>
-<br>
+  <br>
   <h2 class="mb-4"><a href="https://hungaralanches.com/">Canta Lanches</a></h2>
+  <p>Known for its pastel com caldo de cana (fried pastry with sugarcane juice), a classic of Brazilian street-food culture, Canta Lanches captures the essence of a quick snack between classes and panels.</p>
+
 
 ---
 

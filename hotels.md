@@ -5,8 +5,8 @@ description: "Some accommodation suggestions for your stay in Niterói."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/hotels1.jpg"
-hero_image: "/assets/img/photos/hotels1.jpg"
+thumbnail: "/assets/img/photos/hotels1.webp"
+hero_image: "/assets/img/photos/hotels1.webp"
 about_title: "Hotels and Accomodations"
 
 # Gallery images

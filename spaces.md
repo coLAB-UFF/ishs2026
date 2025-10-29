@@ -5,20 +5,17 @@ description: "Meet up on the shores of Guanabara Bay."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/pp26.webp"
-hero_image: "/assets/img/photos/pp7.webp"
+thumbnail: "/assets/img/photos/spaces1.jpg"
+hero_image: "/assets/img/photos/spaces1.jpg"
 about_title: "Meeting Spaces"
 
 # Gallery images
 gallery:
-  - url: "/assets/img/photos/pp2.webp"
-    alt: "Brand mark variations"
-  - url: "/assets/img/photos/pp3.webp"
-    alt: "Brand color palette"
-  - url: "/assets/img/photos/pp4.webp"
-    alt: "Typography specimens" 
-  - url: "/assets/img/photos/pp5.webp"
-    alt: "Brand application examples"
+  - url: "/assets/img/photos/spaces2.jpg"
+  - url: "/assets/img/photos/spaces3.jpg"
+  - url: "/assets/img/photos/spaces4.jpg" 
+  - url: "/assets/img/photos/spaces5.jpg"
+
 ---
 
 IACS features a spacious and pleasant outdoor area along the shores of Guanabara Bay, offering visitors a relaxing environment between activities. The 11-block complex also includes open indoor areas. Some of the building’s rooms can be occasionally used for receptions, registration, multilateral meetings, web conferences, and similar purposes.

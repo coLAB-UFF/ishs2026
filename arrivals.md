@@ -5,20 +5,17 @@ description: "Welcome to Niterói."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/pp26.webp"
-hero_image: "/assets/img/photos/pp7.webp"
+thumbnail: "/assets/img/photos/arrivals1.jpg"
+hero_image: "/assets/img/photos/arrivals1.jpg"
 about_title: "Arrivals"
 
 # Gallery images
 gallery:
-  - url: "/assets/img/photos/pp2.webp"
-    alt: "Brand logo variations"
-  - url: "/assets/img/photos/pp3.webp"
-    alt: "Brand color palette"
-  - url: "/assets/img/photos/pp4.webp"
-    alt: "Typography specimens" 
-  - url: "/assets/img/photos/pp5.webp"
-    alt: "Brand application examples"
+  - url: "/assets/img/photos/arrivals2.jpg"
+  - url: "/assets/img/photos/arrivals3.jpg"
+  - url: "/assets/img/photos/arrivals4.jpg"
+  - url: "/assets/img/photos/arrivals5.jpg"
+
 ---
 
 Most international visitors arrive in Rio de Janeiro through Rio de Janeiro–Galeão International Airport (GIG – also known as Tom Jobim Airport). This airport handles most long-haul flights from North America, Europe, and Asia. A smaller number of travelers may also arrive at Santos Dumont Airport (SDU), which mainly serves domestic flights or connections from other Brazilian cities.

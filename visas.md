@@ -5,8 +5,8 @@ description: "A clean, modern brand identity design for a tech startup with a fo
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/visa1.jpg"
-hero_image: "/assets/img/photos/visa1.jpg"
+thumbnail: "/assets/img/photos/visa1.png"
+hero_image: "/assets/img/photos/visa1.png"
 about_title: "Visas"
 
 

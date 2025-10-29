@@ -11,10 +11,10 @@ about_title: "Explore Niterói"
 
 # Gallery images
 gallery:
+  - url: "/assets/img/photos/explore5.jpg"
   - url: "/assets/img/photos/explore2.jpg"
   - url: "/assets/img/photos/explore3.jpg"
   - url: "/assets/img/photos/explore4.jpg"
-  - url: "/assets/img/photos/explore5.jpg"
 
 # Additional content block appears after gallery
 additional_content: |

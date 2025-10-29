@@ -5,20 +5,16 @@ description: "Leisure options in the vicinity of UFF."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/pp26.webp"
-hero_image: "/assets/img/photos/pp7.webp"
+thumbnail: "/assets/img/photos/explore1.jpg"
+hero_image: "/assets/img/photos/explore1.jpg"
 about_title: "Explore Niterói"
 
 # Gallery images
 gallery:
-  - url: "/assets/img/photos/pp2.webp"
-    alt: "Brand logo variations"
-  - url: "/assets/img/photos/pp3.webp"
-    alt: "Brand color palette"
-  - url: "/assets/img/photos/pp4.webp"
-    alt: "Typography specimens" 
-  - url: "/assets/img/photos/pp5.webp"
-    alt: "Brand application examples"
+  - url: "/assets/img/photos/explore2.jpg"
+  - url: "/assets/img/photos/explore3.jpg"
+  - url: "/assets/img/photos/explore4.jpg"
+  - url: "/assets/img/photos/explore5.jpg"
 
 # Additional content block appears after gallery
 additional_content: |

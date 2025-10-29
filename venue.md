@@ -5,20 +5,17 @@ description: "Combining Rio’s bustling energy with Niterói’s more tranquil,
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/pp26.webp"
-hero_image: "/assets/img/photos/pp7.webp"
+thumbnail: "/assets/img/photos/venue1.jpg"
+hero_image: "/assets/img/photos/venue1.jpg"
 about_title: "Local Venue"
 
 # Gallery images
 gallery:
-  - url: "/assets/img/photos/pp2.webp"
-    alt: "Brand logo variations"
-  - url: "/assets/img/photos/pp3.webp"
-    alt: "Brand color palette"
-  - url: "/assets/img/photos/pp4.webp"
-    alt: "Typography specimens" 
-  - url: "/assets/img/photos/pp5.webp"
-    alt: "Brand application examples"
+  - url: "/assets/img/photos/venue2.jpg"
+  - url: "/assets/img/photos/venue3.jpg"
+  - url: "/assets/img/photos/venue4.jpg" 
+  - url: "/assets/img/photos/venue5.jpg"
+    
 ---
 
 Nestled along Guanabara Bay, at the back end of the Gragoatá Campus of UFF, the Institute of Art and Social Communication (IACS in the Portuguese acronym), which houses the Graduate Program in Communication, is a recent building, composed of eleven two-story blocks, being the largest unit in terms of square footage and the second largest in terms of number of courses and students. The IACS houses 10 undergraduate courses and 6 graduate ones. The Graduate Program in Communication has been in existence for over 25 years and is considered one of the most important programs in the area in Brazil.

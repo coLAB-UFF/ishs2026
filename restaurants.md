@@ -5,20 +5,9 @@ description: "Some accommodation suggestions for your stay in Niterói."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/pp26.webp"
-hero_image: "/assets/img/photos/pp7.webp"
+thumbnail: "/assets/img/photos/restaurants1.jpg"
+hero_image: "/assets/img/photos/restaurants1.jpg"
 about_title: "Off-Campus Restaurants"
-
-# Gallery images
-gallery:
-  - url: "/assets/img/photos/pp2.webp"
-    alt: "Brand logo variations"
-  - url: "/assets/img/photos/pp3.webp"
-    alt: "Brand color palette"
-  - url: "/assets/img/photos/pp4.webp"
-    alt: "Typography specimens" 
-  - url: "/assets/img/photos/pp5.webp"
-    alt: "Brand application examples"
 
 # Additional content block appears after gallery
 additional_content: |

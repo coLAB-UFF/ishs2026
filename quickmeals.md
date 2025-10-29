@@ -9,17 +9,6 @@ thumbnail: "/assets/img/photos/pp26.webp"
 hero_image: "/assets/img/photos/pp7.webp"
 about_title: "Off-Campus Quick Meals"
 
-# Gallery images
-gallery:
-  - url: "/assets/img/photos/pp2.webp"
-    alt: "Brand logo variations"
-  - url: "/assets/img/photos/pp3.webp"
-    alt: "Brand color palette"
-  - url: "/assets/img/photos/pp4.webp"
-    alt: "Typography specimens" 
-  - url: "/assets/img/photos/pp5.webp"
-    alt: "Brand application examples"
-
 # Additional content block appears after gallery
 additional_content: |
   <h2 class="mb-4"><a href="https://hungaralanches.com/">Húngara Lanches</a></h2>

@@ -14,8 +14,7 @@ additional_content: |
   <h2 class="mb-4"><a href="https://hungaralanches.com/">Húngara Lanches</a></h2>
   <p>Despite its name, this spot is proudly local, famous for hearty sandwiches and homemade sauces. Try the “Hungarian” burger — a spicy Brazilian twist that reflects the area’s playful culinary inventiveness. Another very popular option is the Italiano, a type of baked savory or empanada, with cheese and ham.</p>
   <br>
-    <h2 class="mb-4"><a href="https://hungaralanches.com/">Sara Lanches e Pratos</a></h2>
-  <p>Despite its name, this spot is proudly local, famous for hearty sandwiches and homemade sauces. Try the “Hungarian” burger — a spicy Brazilian twist that reflects the area’s playful culinary inventiveness. Another very popular option is the Italiano, a type of baked savory or empanada, with cheese and ham.</p>
+
 <br>
   <h2 class="mb-4"><a href="https://hungaralanches.com/">ETs - Bar e Lanchonete Niterói</a></h2>
   <p>A quirky, bohemian hangout blending sci-fi décor with Brazilian boteco vibes. ETs Bar is best known for its bold snacks — from loaded fries to calabresa sandwiches — and its laid-back atmosphere after sunset.</p>

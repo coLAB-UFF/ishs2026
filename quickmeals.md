@@ -12,6 +12,7 @@ about_title: "Off-Campus Quick Meals"
 # Additional content block appears after gallery
 additional_content: |
   <h2 class="mb-4"><a href="https://hungaralanches.com/">Húngara Lanches</a></h2>
+  <p>Despite its name, this spot is proudly local, famous for hearty sandwiches and homemade sauces. Try the “Hungarian” burger — a spicy Brazilian twist that reflects the area’s playful culinary inventiveness. Another very popular option is the Italiano, a type of baked savory or empanada, with cheese and ham.</p>
 
 
 ---

@@ -5,20 +5,11 @@ description: "A clean, modern brand identity design for a tech startup with a fo
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/pp26.webp"
-hero_image: "/assets/img/photos/pp7.webp"
+thumbnail: "/assets/img/photos/visa1.jpg"
+hero_image: "/assets/img/photos/visa1.jpg"
 about_title: "Visas"
 
-# Gallery images
-gallery:
-  - url: "/assets/img/photos/pp2.webp"
-    alt: "Brand logo variations"
-  - url: "/assets/img/photos/pp3.webp"
-    alt: "Brand color palette"
-  - url: "/assets/img/photos/pp4.webp"
-    alt: "Typography specimens" 
-  - url: "/assets/img/photos/pp5.webp"
-    alt: "Brand application examples"
+
 ---
 
 Visitors from certain countries may need a visa to enter Brazil for short stays, usually up to 90 days for tourism or business purposes. Travelers from the United States, Canada, Australia, India, China, and several countries in Africa and the Middle East are required to obtain a visa in advance.

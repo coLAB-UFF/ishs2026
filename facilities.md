@@ -5,20 +5,17 @@ description: "The Institute of Art and Social Communication welcomes you aboard.
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/pp26.webp"
-hero_image: "/assets/img/photos/pp7.webp"
+thumbnail: "/assets/img/photos/facilities1.jpg"
+hero_image: "/assets/img/photos/facilities1.jpg"
 about_title: "Conference Facilities"
 
 # Gallery images
 gallery:
-  - url: "/assets/img/photos/pp2.webp"
-    alt: "Brand logo variations"
-  - url: "/assets/img/photos/pp3.webp"
-    alt: "Brand color palette"
-  - url: "/assets/img/photos/pp4.webp"
-    alt: "Typography specimens" 
-  - url: "/assets/img/photos/pp5.webp"
-    alt: "Brand application examples"
+  - url: "/assets/img/photos/facilities2.jpg"
+  - url: "/assets/img/photos/facilities3.jpg"
+  - url: "/assets/img/photos/facilities4.jpg"
+  - url: "/assets/img/photos/facilities5.jpg"
+
 ---
 
 The IACS comprises several buildings located nearby. Its administrative headquarters is a historic mansion that currently hosts university extension projects and specific laboratories. The cluster of buildings situated on the Gragoatá Campus now serves as the primary space for teaching and research activities. The institute accommodates approximately 5,000 students, 50 administrative staff, and 150 active faculty members, in addition to several lecturers, interns, fellows and visiting professors.

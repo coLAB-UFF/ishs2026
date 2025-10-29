@@ -12,8 +12,8 @@ about_title: "Meeting Spaces"
 # Gallery images
 gallery:
   - url: "/assets/img/photos/spaces2.jpg"
-  - url: "/assets/img/photos/spaces3.jpg"
-  - url: "/assets/img/photos/spaces4.jpg" 
+  - url: "/assets/img/photos/spaces4.jpg"
+  - url: "/assets/img/photos/spaces3.jpg" 
   - url: "/assets/img/photos/spaces5.jpg"
 
 ---

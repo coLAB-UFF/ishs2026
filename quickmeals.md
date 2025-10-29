@@ -5,8 +5,8 @@ description: "Quick snack options to satisfy your hunger nearby."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/pp26.webp"
-hero_image: "/assets/img/photos/pp7.webp"
+thumbnail: "/assets/img/photos/quickmeals1.jpg"
+hero_image: "/assets/img/photos/quickmeals1.jpg"
 about_title: "Off-Campus Quick Meals"
 
 # Additional content block appears after gallery

@@ -26,7 +26,7 @@
       <a href="mailto:{{ site.data.footer.column_2.email | default: site.data.theme.email | default: 'info@email.com' }}" {% if !include.lightText %}class="link-body"{% endif %}>
         {{ site.data.footer.column_2.email | default: site.data.theme.email | default: 'info@email.com' }}
       </a><br /> 
-      {{ site.data.footer.column_2.phone | default: site.data.theme.phone | default: '00 (123) 456 78 90' }}
+      {{ site.data.footer.column_2.phone | default: site.data.theme.phone | default: ' ' }}
     </div>
     <!-- /.widget -->
   </div>

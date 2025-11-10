@@ -20,7 +20,7 @@ hero:
     label: Register Now
     url: "#"
     class: btn btn-lg btn-primary rounded-pill
-  image: "./assets/img/illustrations/ui2.webp"
+  image: "./assets/img/illustrations/ishs_logo.webp"
   image2x: ""
   trust_text: The Fluminense Federal University proudly presents, for the first time in Majority World...
   

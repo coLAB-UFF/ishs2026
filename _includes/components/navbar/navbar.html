@@ -18,19 +18,20 @@
     <div class="navbar-brand w-100">
       <a href="{{ '/' | relative_url }}">
         {% if include.logoBoth %}
+
           <img class="logo-dark" src="{{ site.data.theme.black_logo_1x | default: '/assets/img/logo-dark.webp' | relative_url }}" 
-               srcset="{{ site.data.theme.black_logo_2x | default: '/assets/img/logo-dark@2x.webp' | relative_url }} 2x" alt="" />
+               srcset="{{ site.data.theme.black_logo_2x | default: '/assets/img/logo-dark@2x.webp' | relative_url }} 2x" style="width: 300px;" alt="" />
           <img class="logo-light" src="{{ site.data.theme.light_logo_1x | default: '/assets/img/logo-light.webp' | relative_url }}" 
-               srcset="{{ site.data.theme.light_logo_2x | default: '/assets/img/logo-light@2x.webp' | relative_url }} 2x" alt="" />
+               srcset="{{ site.data.theme.light_logo_2x | default: '/assets/img/logo-light@2x.webp' | relative_url }} 2x"  style="width: 300px;" alt="" />
         {% elsif include.logoLight %}
           <img src="{{ site.data.theme.light_logo_1x | default: '/assets/img/logo-light.webp' | relative_url }}" 
-               srcset="{{ site.data.theme.light_logo_2x | default: '/assets/img/logo-light@2x.webp' | relative_url }} 2x" alt="" />
+               srcset="{{ site.data.theme.light_logo_2x | default: '/assets/img/logo-light@2x.webp' | relative_url }} 2x"  style="width: 300px;" alt="" />
         {% elsif include.logoAlt %}
           <img src="{{ site.data.theme.black_logo_1x | default: '/assets/img/logo-dark.webp' | relative_url }}" 
-               srcset="{{ site.data.theme.black_logo_2x | default: '/assets/img/logo-dark@2x.webp' | relative_url }} 2x" alt="" />
+               srcset="{{ site.data.theme.black_logo_2x | default: '/assets/img/logo-dark@2x.webp' | relative_url }} 2x"  style="width: 300px;" alt="" />
         {% else %}
           <img src="{{ site.data.theme.logo_1x | default: '/assets/img/logo.webp' | relative_url }}" 
-               srcset="{{ site.data.theme.logo_2x | default: '/assets/img/logo@2x.webp' | relative_url }} 2x" alt="" />
+               srcset="{{ site.data.theme.logo_2x | default: '/assets/img/logo@2x.webp' | relative_url }} 2x"  style="width: 300px;" alt="" />
         {% endif %}
       </a>
     </div>

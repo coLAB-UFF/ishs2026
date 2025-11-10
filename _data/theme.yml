@@ -24,8 +24,8 @@ logo_1x: "/assets/img/illustrations/ishs_header_esq300.webp"
 logo_2x: "/assets/img/illustrations/ishs_header_esq300.webp"
 black_logo_1x: "/assets/img/illustrations/ishs_header_esq300.webp"
 black_logo_2x: "/assets/img/illustrations/ishs_header_esq300.webp"
-light_logo_1x: "/assets/img/illustrations/ishs_header_light.webp"
-light_logo_2x: "/assets/img/illustrations/ishs_header_light.webp"
+light_logo_1x: "/assets/img/illustrations/ishs_header_light.png"
+light_logo_2x: "/assets/img/illustrations/ishs_header_light.png"
 
 address: 'Moonshine St. 14/05 Light City, London, United Kingdom'
 address_01: 'Moonshine St. <br>14/05 Light City,<br /> London, United Kingdom'

@@ -19,23 +19,21 @@ cta:
 # Default Footer (4-column)
 column_2:
   title: Get in Touch
-  address: Moonshine St. 14/05 Light City, London, United Kingdom
-  email: info@email.com
-  phone: 00 (123) 456 78 90
+  address: Fluminense Federal University, Gragoatá Campus, Bl. J, São Domingos, Niterói, Brazil
+  email: colab@midia.uff.br
+  phone: 
   
 column_3:
   title: Learn More
   links:
+    - title: Register Now
+      url: /register
+    - title: Key Dates
+      url: /keydates
+    - title: Call for Papers
+      url: /cfp
     - title: About Us
-      url: /about
-    - title: Our Story
-      url: /about#story
-    - title: Projects
-      url: /projects
-    - title: Terms of Use
-      url: /terms
-    - title: Privacy Policy
-      url: /privacy
+      url: /organizing
       
 newsletter:
   title: Our Newsletter

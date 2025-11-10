@@ -22,7 +22,7 @@ hero:
     class: btn btn-lg btn-primary rounded-pill
   image: "./assets/img/illustrations/ishs_logo.webp"
   image2x: ""
-  trust_text: The Fluminense Federal University proudly presents, for the first time in Majority World...
+  trust_text: The Fluminense Federal University proudly presents, for the first time in the Majority World...
   
 # Services Section
 services:

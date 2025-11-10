@@ -12,16 +12,16 @@ newsletter: true       # Whether to include newsletter form (only applicable for
 # Call to Action Section
 cta:
   enabled: false
-  title: Join our community by using our services and grow your business.
-  button_text: Try It For Free
-  button_url: "#"
+  title: Join a vibrant community of humor researchers.
+  button_text: Register Now
+  button_url: "/register"
  
 # Default Footer (4-column)
 column_2:
   title: Get in Touch
   address: Fluminense Federal University, Gragoatá Campus, Bl. J, São Domingos, Niterói, Brazil
   email: colab@midia.uff.br
-  phone: 
+  phone:   
   
 column_3:
   title: Learn More

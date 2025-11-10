@@ -22,8 +22,8 @@ font_icons_scheme: # https://unicons.iconscout.com/release/v4.0.8/css/line.css
 # Sitewide Logo
 logo_1x: "/assets/img/ishs_logo.webp"
 logo_2x: "/assets/img/ishs_logo.webp"
-black_logo_1x: "/assets/img/logo-dark.webp"
-black_logo_2x: "/assets/img/logo-dark@2x.webp"
+black_logo_1x: "/assets/img/ishs_logo.webp"
+black_logo_2x: "/assets/img/ishs_logo.webp"
 light_logo_1x: "/assets/img/logo-light.webp"
 light_logo_2x: "/assets/img/logo-light@2x.webp"
 

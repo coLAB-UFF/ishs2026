@@ -20,10 +20,10 @@ font_scheme: # dm , space , thicccboi , urbanist
 font_icons_scheme: # https://unicons.iconscout.com/release/v4.0.8/css/line.css
 
 # Sitewide Logo
-logo_1x: "/assets/img/illustrations/ishs_header_esq300.png"
-logo_2x: "/assets/img/illustrations/ishs_header_esq300.png"
-black_logo_1x: "/assets/img/illustrations/ishs_header_esq300.png"
-black_logo_2x: "/assets/img/illustrations/ishs_header_esq300.png"
+logo_1x: "/assets/img/illustrations/ishs_header_esq300.webp"
+logo_2x: "/assets/img/illustrations/ishs_header_esq300.webp"
+black_logo_1x: "/assets/img/illustrations/ishs_header_esq300.webp"
+black_logo_2x: "/assets/img/illustrations/ishs_header_esq300.webp"
 light_logo_1x: "/assets/img/logo-light.webp"
 light_logo_2x: "/assets/img/logo-light@2x.webp"
 

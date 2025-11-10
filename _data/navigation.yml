@@ -12,38 +12,32 @@ main:
       - title: Special Interest Groups
         submenu:
           - title: Online Humor
-            url: /soon/
+            url: /sig01
           - title: Computational Humor
-            url: /soon/
+            url: /sug02
           - title: Humor and Religion
-            url: /soon/
+            url: /sig03
           - title: Humor and the Law
-            url: /soon/
+            url: /sig04
           - title: Humor and Political Struggles in the Global South
-            url: /soon/
+            url: /sig05
           - title: Humor and the Art of Persuasion
-            url: /soon/
+            url: /sig06
           - title: Humor as a Human Right
-            url: /soon/
-          - title: Humor and the Right
-            url: /soon/
+            url: /sig07
       - title: Call for Papers
-        submenu:
-          - title: Papers
-            url: /soon/
-          - title: Posters
-            url: /soon/
+        url: /cfp
   - title: Programme
     type: dropdown
     items:
       - title: Key Dates
-        url: /soon/
+        url: /keydates
       - title: Conference Schedule
         url: /soon/
       - title: Plenary Sessions
         url: /soon/
       - title: SIG Sessions
-        url: /soon/
+        url: /sigs
   - title: Plan Your Trip
     type: dropdown-columns
     items:

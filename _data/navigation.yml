@@ -13,7 +13,7 @@ main:
         submenu:
           - title: Online Humor
             url: /sig01
-          - title: Computational Humor
+          - title: Humor and AI
             url: /sug02
           - title: Humor and Religion
             url: /sig03

@@ -12,29 +12,29 @@ ionmain:
       - title: Special Interest Groups
         submenu:
           - title: Online Humor
-            url: /sig01
+            url: /sig01/
           - title: Humor and AI
-            url: /sug02
+            url: /sug02/
           - title: Humor and Religion
-            url: /sig03
+            url: /sig03/
           - title: Humor, Free Speech, and the Law
-            url: /sig04
+            url: /sig04/
           - title: Humor and the Global South
-            url: /sig05
+            url: /sig05/
           - title: Humor and Education
-            url: /sig06 
+            url: /sig06/
           - title: Humor and Translation
-            url: /sig07
+            url: /sig07/
           - title: Multimodal and Interactional Humor
-            url: /sig08
+            url: /sig08/
           - title: Performing Comedy
-            url: /sig09
-          - title: Screen Comedy
-            url: /sig10
+            url: /sig09/
+          - title: Screen Comedy, TV, Film, and Streaming
+            url: /sig10/
           - title: Business and Media
-            url: /sig11
+            url: /sig11/
       - title: Call for Papers
-        url: /cfp
+        url: /cfp/
   - title: Programme
     type: dropdown
     items:

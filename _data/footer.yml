@@ -257,13 +257,5 @@ minimal_alt:
     enabled: true
     class: social-muted mb-0 text-md-end
     links:
-      - icon: uil uil-twitter
-        url: "#"
-      - icon: uil uil-facebook-f
-        url: "#"
-      - icon: uil uil-dribbble
-        url: "#"
       - icon: uil uil-instagram
-        url: "#"
-      - icon: uil uil-youtube
-        url: "#"
+        url: "https://www.instagram.com/humorstudies"

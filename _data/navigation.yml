@@ -94,15 +94,15 @@ main:
     type: dropdown
     items:
       - title: ISHS Graduate Student Awards (GSA)
-        url: /soon/
+        url: /award_grad/
       - title: The Don and Alleen Nilsen Young Scholars Award (DANYS)
-        url: /soon/
+        url: /award_danys/
       - title: Christie Davies Award (CDA)
-        url: /soon/
+        url: /award_cda/
       - title: Brazilian Portuguese Special Student Awards
-        url: /soon/
+        url: /award_brazil/
       - title: Applications
-        url: /soon/
+        url: /applications/
 
 # One-page navigation configuration
 onepage:

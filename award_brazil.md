@@ -1,0 +1,16 @@
+---
+title: "Brazilian Portuguese Special Student Awards"
+category: "Student Awards"
+description: ""
+layout: project/featured_image
+custom_color: green
+custom_font: urbanist
+thumbnail: "/assets/img/illustrations/prize.png"
+hero_image: "/assets/img/illustrations/prize.png"
+about_title: ""
+
+---
+
+The ISHS Brazilian Portuguese Special Student Awards for Theses and Dissertations on Humor honors outstanding graduate research conducted in Brazil that advances the field of humor studies. Aimed at recent master’s and doctoral graduates, the award recognizes originality, theoretical and methodological relevance, and analytical rigor in studies addressing humor as a cultural, linguistic, communicative, artistic, or social phenomenon.
+
+The award will be presented during the International Society for Humor Studies (ISHS) 2026 Conference in Niterói, Brazil, in a special session dedicated to academic work written in Portuguese. Winners will receive a certificate of merit and formal recognition in the official conference program.

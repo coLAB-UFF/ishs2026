@@ -10,7 +10,8 @@ hero_image: "/assets/img/photos/pp7.webp"
 about_title: ""
 
 # Additional content block appears after gallery
-<a href="/register"><button type="button" style="background-color: #45c4a0; color: white; padding: 10px 20px; border: none; border-radius: 50rem !important; cursor: pointer;">Register Now</button></a>
+additional_content: |
+  <a href="/register"><button type="button" style="background-color: #45c4a0; color: white; padding: 10px 20px; border: none; border-radius: 50rem !important; cursor: pointer;">Register Now</button></a>
 
 ---
 

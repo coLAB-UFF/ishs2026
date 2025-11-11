@@ -7,7 +7,7 @@ custom_color: green
 custom_font: urbanist
 thumbnail: "/assets/img/illustrations/faq.png"
 hero_image: "/assets/img/illustrations/faq.png"
-about_title: "Scientific Committee"
+about_title: "FAQ"
 
 
 ---

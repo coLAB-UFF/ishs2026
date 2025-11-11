@@ -14,12 +14,6 @@ about_title: ""
     label: Register Now
     url: "#"
     class: btn btn-lg btn-primary rounded-pill
-  image: "./assets/img/illustrations/ishs_logo.webp"
-  image2x: ""
-  trust_text: The Fluminense Federal University proudly presents, for the first time in the Majority World...
-additional_content: |
-  <h2 class="mb-4">Conference Chairs</h2>
-  <p>ISHS 2026 is co-chaired by professors Viktor Chagas and João Paulo Capelotti.</p>
     
 ---
 

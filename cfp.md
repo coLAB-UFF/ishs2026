@@ -11,7 +11,7 @@ about_title: ""
 
 # Additional content block appears after gallery
 additional_content: |
-  <a href="../register"><button type="button" style="background-color: #45c4a0; color: white; padding: 10px 20px; border: none; border-radius: 50rem !important; cursor: pointer;"><strong>REGISTER NOW</strong></button></a>
+  <a href="/ishs2026/register"><button type="button" style="background-color: #45c4a0; color: white; padding: 10px 20px; border: none; border-radius: 50rem !important; cursor: pointer;"><strong>REGISTER NOW</strong></button></a>
 
 ---
 

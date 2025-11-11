@@ -10,7 +10,7 @@ hero_image: "/assets/img/photos/pp7.webp"
 about_title: ""
 
 # Additional content block appears after gallery
-  button: |
+  button: 
     label: Register Now
     url: "#"
     class: btn btn-lg btn-primary rounded-pill

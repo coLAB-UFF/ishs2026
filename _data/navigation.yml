@@ -1,4 +1,4 @@
-main:
+atiomain:
   - title: Registration
     type: dropdown
     items:
@@ -21,24 +21,18 @@ main:
             url: /sig04
           - title: Humor and the Global South
             url: /sig05
-          - title: Humor and the Art of Persuasion
+          - title: Humor and Education
             url: /sig06
-          - title: Humor as a Human Right
+          - title: Humor and Translation
             url: /sig07
-          - title: Online Humor
-            url: /sig01
-          - title: Humor and AI
-            url: /sug02
-          - title: Humor and Religion
-            url: /sig03
-          - title: Humor, Free Speech, and the Law
-            url: /sig04
-          - title: Humor and the Global South
-            url: /sig05
-          - title: Humor and the Art of Persuasion
-            url: /sig06
-          - title: Humor as a Human Right
-            url: /sig07
+          - title: Multimodal and Interactional Humor
+            url: /sig08
+          - title: Performing Comedy
+            url: /sig09
+          - title: Screen Comedy, TV, Film, and Streaming
+            url: /sig10
+          - title: Business and Media
+            url: /sig11
       - title: Call for Papers
         url: /cfp
   - title: Programme

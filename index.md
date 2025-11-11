@@ -112,20 +112,20 @@ testimonials:
 faq:
   title: FAQ
   subtitle: If you don't see an answer to your question, you can send us an email from our contact form.
-  text: Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare.
+  text: First-timer?
   button:
     label: All FAQ
     url: "#"
     class: btn btn-primary rounded-pill
   faq_items:
-    - title: How do I get my subscription receipt?
-      text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.
-    - title: Are there any discounts for people in need?
-      text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.
-    - title: Do you offer a free trial edit?
-      text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.
-    - title: How do I reset my Account password?
-      text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.
+    - title: Do I have to be a member of the ISHS to join the conference?
+      text: No. But there is a big discount in the registration fee for members of the ISHS, and considering that being an associate member of the ISHS costs only US$ 30 a year, plus all the benefits coming with this membership, we invite you to consider joining the society.
+    - title: Are the conference activities transmitted online?
+      text: No. The papers and poster sessions, the roundtables and the keynote lectures are all exclusively in person. There will be a special conference, entirely online, before the main event, dedicated to papers about humor in the Global South. More info about this soon.
+    - title: Are there special fees for delegates from the Global South?
+      text: Yes. Students, professors and professionals from countries of the Global South are entitled to lower registration fees. More info about this soon.
+    - title: What are the languages of the conference?
+      text: There will be lectures in English and Portuguese, with simultaneous translation into Portuguese and English. Most of the papers will be presented in English, but there will be sessions with papers in Portuguese and Spanish. Check out our program later.
 
 # Footer CTA
 footer_cta:

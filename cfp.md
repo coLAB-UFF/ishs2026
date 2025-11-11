@@ -10,45 +10,8 @@ hero_image: "/assets/img/photos/pp7.webp"
 about_title: ""
 
 # Additional content block appears after gallery
-<style>
-.button {
-  display: inline-block;
-  border-radius: 4px;
-  background-color: #f4511e;
-  border: none;
-  color: #FFFFFF;
-  text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
-  cursor: pointer;
-}
+<a href="http://google.com"><button type="button" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Register Now</button></a>
 
-.button span {
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.button span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.button:hover span {
-  padding-right: 25px;
-}
-
-.button:hover span:after {
-  opacity: 1;
-  right: 0;
-}
-</style>
-
-<a href="http://google.com><button class="button" style="vertical-align:middle"><span>Register Now </span></button></a>
  
 ---
 

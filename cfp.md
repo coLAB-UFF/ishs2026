@@ -10,9 +10,8 @@ hero_image: "/assets/img/photos/pp7.webp"
 about_title: ""
 
 # Additional content block appears after gallery
-<a href="http://google.com"><button type="button" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Register Now</button></a>
+<a href="/register"><button type="button" style="background-color: #45c4a0; color: white; padding: 10px 20px; border: none; border-radius: 50rem !important; cursor: pointer;">Register Now</button></a>
 
- 
 ---
 
 In 2026, we celebrate 50 years since the first interdisciplinary conference on humor, held in Cardiff, Wales – a landmark and a decisive step in the later creation of the International Society for Humor Studies. During all these years, the ISHS has consolidated its role as the primary venue for humor scholarship, and, of course, a place for discussion, interaction and exchange for humor scholars.

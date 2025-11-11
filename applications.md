@@ -53,7 +53,7 @@ Please email all documents in a single file to <a href="mailto:humorstudies@midi
 
 •	Applicants for the Christie Davies’ Award will be judged on a completed manuscript on any topic within the area of social sciences or liberal arts disciplines. They must therefore submit their completed manuscript together with their abstract.
 
-•	Applicants for the Brazilian Portuguese Student Awards will be judged on their thesis or dissertation.
+•	Applicants for the Brazilian Portuguese Student Awards will be judged on their theses or dissertations.
 
 The ISHS Awards Committee will review each applicant’s materials and, based on merit, make one recommendation for the DANYS Award, one recommendation for the CDA, and two recommendations for GSAs. The Committee will present its recommendations to the ISHS Executive Board for final approval, and the Board will notify the award recipients of their awards in advance of the Society’s annual Conference.
 

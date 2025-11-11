@@ -115,7 +115,7 @@ faq:
   text: First-timer?
   button:
     label: All FAQ
-    url: "#"
+    url: "/faq"
     class: btn btn-primary rounded-pill
   faq_items:
     - title: Do I have to be a member of the ISHS to join the conference?
@@ -132,7 +132,7 @@ footer_cta:
   title: Join our community by registering for the conference, submitting your work, and following our sessions and activities.
   button:
     label: Register Now
-    url: "#"
+    url: "/register"
     class: btn btn-primary rounded-pill
     
 ---

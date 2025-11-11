@@ -5,13 +5,13 @@ description: ""
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/pp26.webp"
-hero_image: "/assets/img/photos/pp7.webp"
+thumbnail: "/assets/img/illustrations/5702639_2994182.png"
+hero_image: "/assets/img/illustrations/5702639_2994182.png"
 about_title: ""
 
 # Additional content block appears after gallery
 additional_content: |
-  <a href="/register"><button type="button" style="background-color: #45c4a0; color: white; padding: 10px 20px; border: none; border-radius: 50rem !important; cursor: pointer;">Register Now</button></a>
+  <a href="/register"><button type="button" style="background-color: #45c4a0; color: white; padding: 10px 20px; border: none; border-radius: 50rem !important; cursor: pointer;"><strong>REGISTER NOW</strong></button></a>
 
 ---
 

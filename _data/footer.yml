@@ -14,13 +14,13 @@ cta:
   enabled: false
   title: Join a vibrant community of humor researchers.
   button_text: Register Now
-  button_url: "/register"
+  button_url: "register"
  
 # Default Footer (4-column)
 column_2:
   title: Get in Touch
   address: Fluminense Federal University, Gragoatá Campus, Bl. J, São Domingos, Niterói, Brazil
-  email: colab@midia.uff.br
+  email: humorstudies@midia.uff.br
   
 column_3:
   title: Learn More

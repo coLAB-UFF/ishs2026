@@ -18,7 +18,7 @@ hero:
   subtitle: Where the zueira never ends.
   button:
     label: Register Now
-    url: "#"
+    url: "register"
     class: btn btn-lg btn-primary rounded-pill
   image: "./assets/img/illustrations/ishs_logo.webp"
   image2x: ""
@@ -49,8 +49,8 @@ strategy:
   text: The International Society for Humor Studies (ISHS) is the leading scholarly association dedicated to promoting interdisciplinary research on humor in its multiple dimensions, involving researchers from diverse fields such as communication, psychology, sociology, linguistics, philosophy, law, the arts, education, and health.
   text2: In the year marking 50 years since the first interdisciplinary humor studies conference in 1976, the event will be held in Brazil for the first time. Don’t miss it!
   button:
-    label: Learn More
-    url: "#"
+    label: Register Now
+    url: "register"
     class: btn btn-primary rounded-pill
   steps:
     - number: "01"
@@ -115,7 +115,7 @@ faq:
   text: First-timer?
   button:
     label: All FAQ
-    url: "/faq"
+    url: "faq"
     class: btn btn-primary rounded-pill
   faq_items:
     - title: Do I have to be a member of the ISHS to join the conference?
@@ -132,7 +132,7 @@ footer_cta:
   title: Join our community by registering for the conference, submitting your work, and following our sessions and activities.
   button:
     label: Register Now
-    url: "/register"
+    url: "register"
     class: btn btn-primary rounded-pill
     
 ---
@@ -147,7 +147,7 @@ footer_cta:
     otherBtn=true
     otherBtnClassList="btn btn-sm btn-primary rounded-pill"
     otherBtnText="Register Now"
-    otherBtnLink="/contact/"     
+    otherBtnLink="register/"     
 %}
 </header>
 <!-- /header -->

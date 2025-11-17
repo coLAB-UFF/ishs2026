@@ -39,11 +39,11 @@ Please email all documents in a single file to <a href="mailto:humorstudies@midi
 
 •	a curriculum vitae
 
-•	a conference paper abstract by <strong>May 15, 2026</a> (Applicants for the GSA)
+•	a conference paper abstract by <strong>May 15, 2026</strong> (Applicants for the GSA)
 
 •	a completed conference paper plus abstract by <strong>May 15, 2026</strong> (Applicants for the CDA and DANYS)
 
-•	complete PhD dissertation or Masters thesis by <strong>May 15, 2026</a> (Applicants for the Brazilian Student Awards)
+•	complete PhD dissertation or Masters thesis by <strong>May 15, 2026</strong> (Applicants for the Brazilian Student Awards)
 
 <h2>Selection procedures</h2>
 

@@ -1,7 +1,7 @@
 ---
 title: "Off-Campus Restaurants"
 category: "Dining"
-description: "Some accommodation suggestions for your stay in Niterói."
+description: "Restaurants close to the university."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist

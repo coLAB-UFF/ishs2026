@@ -29,5 +29,5 @@ Please email all documents in a single file to <a href="mailto:humorstudies@midi
 
 •	a curriculum vitae
 
-•	a completed conference paper plus abstract by <strong>May 15, 2026</strong>
+•	a completed conference paper plus abstract by <strong>May 30, 2026</strong>
 

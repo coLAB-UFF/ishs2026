@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coming Soon
-permalink: /soon/
+permalink: /register/
 custom_color: green
 custom_font: 
 scroll_top_btn:

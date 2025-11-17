@@ -17,7 +17,7 @@ The Christie Davies Award (CDA) aims to recognize exemplary graduate student wor
 
 In order to be eligible to the award, you must:
 
-•	be an ISHS student member working toward a masters or doctoral degree, or a recent PhD (doctorate after May 1, 2023)
+•	be an ISHS student member working toward a masters or doctoral degree, or a recent PhD (doctorate after May 1, 2024)
 
 •	register for and attend the 2026 ISHS Conference
 
@@ -29,5 +29,5 @@ Please email all documents in a single file to <a href="mailto:humorstudies@midi
 
 •	a curriculum vitae
 
-•	a completed conference paper plus abstract by <strong>May 15, 2026</strong>
+•	a completed conference paper plus abstract by <strong>May 30, 2026</strong>
 

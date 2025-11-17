@@ -25,7 +25,7 @@ There are four awards available:
 
 <h2>Award applicants must</h2>
 
-•	be an ISHS student member working toward a masters or doctoral degree – Recent PhDs, who received their doctorate after May 1, 2023, may also apply for the CDA
+•	be an ISHS student member working toward a masters or doctoral degree – Recent PhDs, who received their doctorate after May 1, 2024, may also apply for the CDA
 
 •	register for and attend the 2026 ISHS Conference
 
@@ -39,11 +39,11 @@ Please email all documents in a single file to <a href="mailto:humorstudies@midi
 
 •	a curriculum vitae
 
-•	a conference paper abstract by <strong>May 15, 2026</strong> (Applicants for the GSA)
+•	a conference paper abstract by <strong>May 30, 2026</strong> (Applicants for the GSA)
 
-•	a completed conference paper plus abstract by <strong>May 15, 2026</strong> (Applicants for the CDA and DANYS)
+•	a completed conference paper plus abstract by <strong>May 30, 2026</strong> (Applicants for the CDA and DANYS)
 
-•	complete PhD dissertation or Masters thesis by <strong>May 15, 2026</strong> (Applicants for the Brazilian Student Awards)
+•	complete PhD dissertation or Masters thesis by <strong>March 30, 2026</strong> (Applicants for the Brazilian Student Awards)
 
 <h2>Selection procedures</h2>
 

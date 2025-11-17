@@ -14,7 +14,7 @@ main:
           - title: Online Humor
             url: /sig01
           - title: Humor and Artificial Intelligence
-            url: /sug02
+            url: /sig02
           - title: Humor and Religion
             url: /sig03
           - title: Humor, Free Speech, and the Law
@@ -28,7 +28,7 @@ main:
           - title: Multimodal and Interactional Humor
             url: /sig08
           - title: Performing Comedy
-            url: /sug09
+            url: /sig09
           - title: Screen Comedy
             url: /sig10
           - title: Business and Media

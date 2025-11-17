@@ -12,7 +12,7 @@ cta1:
   enable: true
   bg_image: "/assets/img/illustrations/24503338_idea_01.webp"
   title: "Coming Soon"
-  text: "Something great is on the way! Check back soon to see what we’ve been working on."
+  text: "Something great is on the way! Check back soon to see what we’ve been working on. Registration will open on January 19, 2026"
   button:
     label: "Back to Home"
     url: "https://colab-uff.github.io/ishs2026/"

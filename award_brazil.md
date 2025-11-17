@@ -17,7 +17,7 @@ The award will be presented during the International Society for Humor Studies (
 
 In order to be eligible to the award, you must:
 
-• be an ISHS recent master or doctoral graduate member
+• be an ISHS recent master or doctoral graduate member (graduation after May 1, 2024)
 
 • register for and attend the 2026 ISHS Conference
 

@@ -31,11 +31,11 @@ services:
   service_items:
     - image: /assets/img/illustrations/i24.png
       image2x: /assets/img/illustrations/i24@2x.png
-      title: Keynotes and Plenary Sessions
+      title: Keynote Speakers and Roundtables
       text: Join leading scholars and practitioners for thought-provoking talks that set the tone for our shared debates and inspire new research directions.
     - image: /assets/img/illustrations/i19.png
       image2x: /assets/img/illustrations/i19@2x.png
-      title: Special Interest Groups
+      title: Panels
       text: Engage in focused discussions with peers who share your research interests, fostering collaboration and advancing specialized topics.
     - image: /assets/img/illustrations/i18.png
       image2x: /assets/img/illustrations/i18@2x.png

@@ -32,8 +32,11 @@ additional_content: |
   <p><strong>Diego Hoefel</strong>, assistant professor at the Universidade Federal do Ceará and director of Casa Amarela Eusélio Oliveira</p>
   <p><strong>Rodrigo Carreiro</strong>, research director and co-executive director of the think tank Aláfia Lab</p>
   <br>
-    <h2 class="mb-4">Support Staff</h2>
-    <p>The undergraduate and graduate students of communication in UFF, as well as the members of coLAB, will be of great help in the registration process and in the daily issues of the conference. UFF’s personnel will provide technical help for plenary and panel sessions, particularly the ones with remote participants.</p>
+  <h2 class="mb-4">Support Staff</h2>
+  <p><strong>Daniel Rios</strong>, designer, post-doctoral fellowship at the Universidade Federal Fluminense</p>
+  <p><strong>Carlos Bonifácio</strong>, social media content strategy, master's candidate at the Universidade Federal Fluminense</p>
+    
+  <p>The undergraduate and graduate students of communication in UFF, as well as the members of coLAB, will be of great help in the registration process and in the daily issues of the conference. UFF’s personnel will provide technical help for plenary and panel sessions, particularly the ones with remote participants.</p>
 ---
 
 We are delighted to welcome you to the 36th Annual Conference of the International Society for Humor Studies (ISHS 2026), hosted at the Fluminense Federal University (UFF) in Niterói. This conference brings together scholars, researchers, and practitioners from around the world to engage in discussions on humor studies across diverse cultural, social, and political contexts.

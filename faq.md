@@ -18,7 +18,7 @@ No. But there is a big discount in the registration fee for members of the ISHS,
 
 <strong>2) Are the conference activities transmitted online?</strong>
 
-No. The papers and poster sessions, the roundtables and the keynote lectures are all exclusively in person. There will be a special conference, entirely online, before the main event, dedicated to papers about humor in the Global South. More info about this soon.
+No. The papers sessions, the roundtables and the keynote lectures are all exclusively in person. There will be a special conference, entirely online, before the main event, dedicated to papers about humor in the Global South. More info about this soon.
 
 <strong>3) Are there special fees for delegates from the Global South?</strong>
 

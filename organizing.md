@@ -23,7 +23,14 @@ additional_content: |
   <br>
   <br>
   <h2 class="mb-4">Organizing Committee</h2>
-  <p>The organizing committee also benefits from the extensive experience of its members, including Benjamim Picado, coordinator of the Graduate Program in Communication (PPGCOM) at UFF (rated 7 in the latest Capes evaluation); José Messias, PPGCOM member and Associate Professor in the Department of Cultural and Media Studies; Paulo Gajanigo, professor at UFF Campos and the Graduate Program in Culture and Territorialities (PPCult); Diego Hoefel, professor at the Federal University of Ceará and director of Casa Amarela Eusélio Oliveira; and Rodrigo Carreiro, research director and co-executive director of the think tank Aláfia Lab.</p>
+  <p>The organizing committee also benefits from the extensive experience of its members, including the following members:
+  <p><strong>Viktor Chagas</strong>, associate professor at the Universidade Federal Fluminense <em>(co-chair)</em></p>
+  <p><strong>João Paulo Capelotti</strong>, post-doctoral fellowship at the Universidade Federal Fluminense <em>(co-chair)</em></p>
+  <p><strong>Benjamim Picado</strong>, full professor and coordinator of the Graduate Program in Communication (PPGCOM) at the Universidade Federal Fluminense</p>
+  <p><strong>José Messias</strong>, assistant professor at the Universidade Federal Fluminense</p>
+  <p><strong>Denise Margonari Favaro</strong>, full professor at the Universidade do Estado de São Paulo Araraquara (Unesp Araraquara)</p>
+  <p><strong>Diego Hoefel</strong>, assistant professor at the Universidade Federal do Ceará and director of Casa Amarela Eusélio Oliveira</p>
+  <p><strong>Rodrigo Carreiro</strong>, research director and co-executive director of the think tank Aláfia Lab</p>
   <br>
     <h2 class="mb-4">Support Staff</h2>
     <p>The undergraduate and graduate students of communication in UFF, as well as the members of coLAB, will be of great help in the registration process and in the daily issues of the conference. UFF’s personnel will provide technical help for plenary and panel sessions, particularly the ones with remote participants.</p>

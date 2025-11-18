@@ -3,12 +3,16 @@ main:
     type: dropdown
     items:
       - title: Conference Fees
-        url: /fees/
+        url: /soon/
       - title: Register Now
         url: /soon/
   - title: Submissions
     type: dropdown
     items:
+      - title: Call for Panels
+        url: /call_panels
+      - title: Call for Papers
+        url: /call_papers
       - title: Special Interest Groups
         submenu:
           - title: Online Humor
@@ -33,8 +37,6 @@ main:
             url: /sig10
           - title: Business and Media
             url: /sig11
-      - title: Call for Papers
-        url: /cfp
   - title: Programme
     type: dropdown
     items:
@@ -42,10 +44,12 @@ main:
         url: /keydates
       - title: Conference Schedule
         url: /soon/
-      - title: Plenary Sessions
+      - title: Keynotes
         url: /soon/
-      - title: SIG Sessions
-        url: /sigs
+      - title: Roundtables
+        url: /soon/
+      - title: Panels
+        url: /soon/
   - title: Plan Your Trip
     type: dropdown-columns
     items:

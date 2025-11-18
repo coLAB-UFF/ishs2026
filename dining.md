@@ -5,8 +5,8 @@ description: "Some accommodation suggestions for your stay in Niterói."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/dining1.jpg"
-hero_image: "/assets/img/photos/dining1.jpg"
+thumbnail: "/assets/img/photos/img7752.jpg"
+hero_image: "/assets/img/photos/img7752.jpg"
 about_title: "On-Campus Dining Alternatives"
 
 # Additional content block appears after gallery

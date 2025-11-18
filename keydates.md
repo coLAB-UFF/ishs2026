@@ -13,6 +13,7 @@ about_title: ""
 
 Below is the conferences's deadline schedule.
 
+
 ## Registration
 
 | Description | Deadline |
@@ -20,8 +21,9 @@ Below is the conferences's deadline schedule.
 | Early Bird Registration | January 19 to May 30 |
 | Late Registration | June 1st to June 30 |
 
-Cancellations until May 30 are subject to a fee of 50%.
-No cancellations are possible after May 30.
+<sub>* Cancellations until May 30 are subject to a fee of 50%.</sub>
+<sub>* No cancellations are possible after May 30.</sub>
+
 
 ## Submission
 
@@ -33,7 +35,8 @@ No cancellations are possible after May 30.
 | Acceptance of Panel Proposals | After March 16 |
 | Acceptance of Short Abstracts | May 6 |
 
-No posters will be accepted for the conference.
+<sub>* No posters will be accepted for the conference.</sub>
+
 
 ## Award Application
 
@@ -42,4 +45,4 @@ No posters will be accepted for the conference.
 | PhD Dissertation Submission | Until March 30 |
 | Full Paper Submission | Until May 30 |
 
-No posters will be accepted for the conference.
+

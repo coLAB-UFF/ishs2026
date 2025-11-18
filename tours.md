@@ -5,8 +5,8 @@ description: "Leisure options in the vicinity of UFF."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/tours1.jpg"
-hero_image: "/assets/img/photos/tours1.jpg"
+thumbnail: "/assets/img/photos/tours1.webp"
+hero_image: "/assets/img/photos/tours1.webp"
 about_title: "Tours"
 
 # Gallery images

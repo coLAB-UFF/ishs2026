@@ -12,7 +12,20 @@ about_title: "Scientific Committee"
 # Additional content block appears after gallery
 additional_content: |
   <h2 class="mb-4">Scientific Committee</h2>
-  <p>The scientific committee includes Delia Chiaro (Università di Bologna), Denise Margonari Favaro (Unesp), Elias Saliba (USP), Hector Fernández L’Hoeste (Georgia State University), Jessica Milner Davis (University of Sydney), Liisi Laineste (Estonian Literary Museum), Mark Boukes (Universiteit van Amsterdam), Raúl Pérez (University of La Verne), Sharon Lockyer (Brunel University London), Simon Weaver (Brunel University London), Thaís Leão Vieira (UFMT), Vera Chaia (PUC-SP), and Vinicius Liebel (UFRJ). Some members are former ISHS board members, including the current president, Liisi Laineste. All members have prior interactions or collaborations with the organizers and extensive experience in academic event participation and organization.</p>
+  <p><strong>Delia Chiaro</strong>, professor emerita at the Università di Bologna</p>
+  <p><strong>Elias Saliba</strong>, full professor at the Universidade de São Paulo (USP)</p>
+  <p><strong>Hector Fernández L'Hoeste</strong>, professor at the Georgia State University</p>
+  <p><strong>Jessica Milner Davis</strong>, professor emerita at the University of Sydney</p>
+  <p><strong>Liisi Laineste</strong>, research professor at the Estonian Literary Museum and researcher at the Tartu University</p>
+  <p><strong>Mark Boukes</strong>, associate professor at the Universiteit van Amsterdam</p>
+  <p><strong>Raúl Pérez</strong>, associate professor at the University of La Verne</p>
+  <p><strong>Sharon Lockyer</strong>, reader at the Brunel University London</p>
+  <p><strong>Simon Weaver</strong>, reader at the Brunel University London</p>
+  <p><strong>Thaís Leão Vieira</strong>, associate professor at the Universidade Federal do Mato Grosso (UFMT)</p>
+  <p><strong>Vera Chaia</strong>, full professor at the Pontifícia Universidade Católica de São Paulo (PUC-SP)</p>
+  <p><strong>Vinicius Liebel</strong>, associate professor at the Universidade Federal do Rio de Janeiro (UFRJ)</p>
+  <br><br>
+  <p>Some members are former ISHS board members, including the current president, Liisi Laineste. All members have prior interactions or collaborations with the organizers and extensive experience in academic event participation and organization.</p>
   <br>
   <br>
 ---

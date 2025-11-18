@@ -1,7 +1,7 @@
 ---
 title: "On-Campus Dining Alternatives"
 category: "Dining"
-description: "Some accommodation suggestions for your stay in Niterói."
+description: "Some dining options."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist

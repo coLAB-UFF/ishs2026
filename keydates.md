@@ -22,6 +22,7 @@ Below is the conferences's deadline schedule.
 | Late Registration | June 1st to June 30 |
 
 <sub>* Cancellations until May 30 are subject to a fee of 50%.</sub>
+
 <sub>* No cancellations are possible after May 30.</sub>
 
 

@@ -19,6 +19,7 @@ additional_content: |
 ---
 
 While UFF has its own University Restaurant, this dining facility is reserved for members of the academic community. The University Restaurant, popularly known as the Bandejão (“Big Tray”), offers nutritious and affordable meals to students, faculty, and staff. In addition to the Gragoatá campus, there are University Restaurants on the Praia Vermelha, Rector’s Office, Veterinary Clinic, and Antônio Pedro University Hospital (HUAP) campuses.
+
 All restaurants operate on a self-service basis, with meals including a main course, side dishes, dessert, and a soft drink. Access is managed through an app token, which is restricted to the university community.
 
 For visitors and those not affiliated with UFF, Maia Restaurante provides a convenient and budget-friendly alternative. Located behind Block A, near Block M, this small canteen offers home-style meals at reasonable prices, typically ranging from R$20 to R$40. The menu changes daily and usually includes options such as steak, chicken, or omelets.

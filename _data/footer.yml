@@ -31,12 +31,12 @@ column_3:
       url: /keydates
     - title: Call for Papers
       url: /cfp
-    - title: About Us
+    - title: Local Committee
       url: /organizing
       
 newsletter:
-  title: Our Newsletter
-  description: Teste. Subscribe to our newsletter to get our news & deals delivered to you.
+  title: About the ISHS
+  description: Know more about the International Society for Humor Studies on the <a href="http://humorstudies.org">official website</a>.
   button_text: Join
   # Optional custom HTML form
   custom_form: ""

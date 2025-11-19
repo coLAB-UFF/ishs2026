@@ -29,8 +29,10 @@ column_3:
       url: /register
     - title: Key Dates
       url: /keydates
+    - title: Call for Panels
+      url: /call_panels
     - title: Call for Papers
-      url: /cfp
+      url: /call_papers
     - title: Local Committee
       url: /organizing
       

@@ -5,8 +5,8 @@ description: ""
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/illustrations/5702639_2994182.png"
-hero_image: "/assets/img/illustrations/5702639_2994182.png"
+thumbnail: "/assets/img/illustrations/8592637.jpg"
+hero_image: "/assets/img/illustrations/8592637.jpg"
 about_title: ""
 
 # Additional content block appears after gallery

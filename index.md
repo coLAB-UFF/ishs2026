@@ -15,7 +15,7 @@ banner:
 # Hero Section
 hero:
   title: International Society for Humor Studies<br><span class="rotator-fade text-primary">Niterói, Brazil <br />July, 6 to 10, 2026</span>
-  subtitle: Where the zueira never ends.
+  subtitle: Where the <a href="./zueira">zueira</a> never ends.
   button:
     label: Register Now
     url: "register"

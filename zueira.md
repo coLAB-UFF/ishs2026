@@ -16,3 +16,4 @@ If you ask the locals of Niterói which is the most distinguished landmark of th
 Our logo plays with this resemblance, also underlining how the flying saucer also looks a bit like a smile, a prominent symbol of our society. 
 
 Also from the early stages of development of our conference, we wanted to reference Brazilian memes, one of them being "the zueira never ends". Zueira is a slang for mocking or pranking. A well-known meme features precisely this expression, partly in Portuguese, partly in English – translating, in a certain way, precisely the bilingual spirit of the conference and this junction (or juxtaposition) of various cultures into a single humorous expression.
+

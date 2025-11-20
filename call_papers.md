@@ -33,7 +33,7 @@ Papers with more than one author are allowed, but, if the paper is approved, all
 
 No remote presentations will be allowed. There will be a special webinar, prior to the main conference, completely online, dedicated for works about the Global South or written by Global South scholars.
 
-For papers that are part of pre-organized panels, the submission is made directly by the panel proposer. In this case, individual paper proposers should not submit their proposals in duplicate.
+For papers that are part of pre-organized panels, the submission is made directly by the panel proposer. In this case, individual paper proposers should not submit their proposals in duplicate. Authors of short abstracts are also allowed to submit panels and roundtables proposals, if they so wish. However, authors of short abstracts may submit a maximum of two paper proposals, with only one as the main author.
 
 Please submit your proposal by March 27, 2026, using the button below.
 

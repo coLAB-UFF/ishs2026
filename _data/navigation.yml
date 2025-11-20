@@ -13,6 +13,8 @@ main:
         url: /call_panels
       - title: Call for Papers
         url: /call_papers
+      - title: Call for Roundtables
+        url: /call_roundtables
       - title: Special Interest Groups
         submenu:
           - title: Online Humor

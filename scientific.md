@@ -14,7 +14,9 @@ additional_content: |
   <h2 class="mb-4">Scientific Committee</h2>
   <p><strong>Delia Chiaro</strong>, professor emerita at the Università di Bologna</p>
   <p><strong>Elias Saliba</strong>, full professor at the Universidade de São Paulo (USP)</p>
+  <p><strong>Giselinde Kuipers</strong>, professor at the Katholieke Universiteit Leuven</p>
   <p><strong>Hector Fernández L'Hoeste</strong>, professor at the Georgia State University</p>
+  <p><strong>J. Finley</strong>, associate professor at the Pomona College</p>
   <p><strong>Jessica Milner Davis</strong>, professor emerita at the University of Sydney</p>
   <p><strong>Liisi Laineste</strong>, research professor at the Estonian Literary Museum and researcher at the Tartu University</p>
   <p><strong>Mark Boukes</strong>, associate professor at the Universiteit van Amsterdam</p>

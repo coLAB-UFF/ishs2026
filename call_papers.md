@@ -15,11 +15,25 @@ additional_content: |
 
 ---
 
-In 2026, we celebrate 50 years since the first interdisciplinary conference on humor, held in Cardiff, Wales – a landmark and a decisive step in the later creation of the International Society for Humor Studies. During all these years, the ISHS has consolidated its role as the primary venue for humor scholarship, and, of course, a place for discussion, interaction and exchange for humor scholars.
+For more than 30 years, the conferences organized by the International Society for Humor Studies have been the primary venue to present scientific research in the field of humor studies. The ISHS welcomes papers from the numerous expertises, such as social sciences, communication and media studies, anthropology, political science, history, psychology, education, linguistics and translation, folklore, computational sciences and engineering, robotics, law, among others. 
 
-This year, for the first time ever, the conference will be held in South America – Federal Fluminense University (UFF in the Portuguese acronym) will host the event in campus Gragoatá, in the city of Niterói, state of Rio de Janeiro. 
+Individual paper proposals can be made by submitting short abstracts. Submitted proposals will be reviewed by the local organizing committee and by ad hoc experts in the field, and, if approved, will be assembled into panels specifically designed by the organization or will eventually join the panels proposed by other scholars in response to the call for panels.
 
-The ISHS welcomes papers from the countless fields of human knowledge that deal with humor, including psychology, linguistics, social sciences, anthropology, computational sciences, engineering, education, communication, robotics, law, translation, folklore, among others. 
+Each proponent is responsible for gathering all the necessary information for the submission. Please submit a 250-word short abstract to the form that will be provided in the conference's website. In case of any doubt, please write to the conference convenors at humorstudies@midia.uff.br
 
-Please submit an abstract of up to 250 words and a brief biography by January 30, 2026, by registering now using the button below.
+The proposal must include:
+
+* Title.
+
+* A 250-word short abstract.
+
+* List of respective authors and their mini-bios. All authors must have agreed to submit their abstracts to the panel. Authors must also register beforehand to the conference separately.
+
+Papers with more than one author are allowed, but, if the paper is approved, all of them must have paid the registration fee for the conference.
+
+No remote presentations will be allowed. There will be a special webinar, prior to the main conference, completely online, dedicated for works about the Global South or written by Global South scholars.
+
+For papers that are part of pre-organized panels, the submission is made directly by the panel proposer. In this case, individual paper proposers should not submit their proposals in duplicate.
+
+Please submit your proposal by March 27, 2026, using the button below.
 

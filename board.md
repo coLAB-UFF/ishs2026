@@ -20,7 +20,7 @@ additional_content: |
   <p><strong>ISHS Board Member</strong>: Julia Rayz — Computer & Information Technology, Purdue University</p>
   <p><strong>ISHS Board Member</strong>: Simon Weaver — Social and Political Sciences, Brunel University</p>
   <p><strong>Humor Editor-in-Chief / Conference Convener</strong>: Christian Hempelmann — Languages, East Texas A & M University</p>
-  <p><strong>Past Conference Convenor</strong>: Patrice Oppliger — Communication, Boston University</p>
+  <p><strong>Past Conference Convenor</strong>: Władysław Chłopicki - English, Jagiellonian University</p>
   <p><strong>ISHS Historian</strong>: Don Nilsen — English, Arizona State University</p>
   <br>
   <br>

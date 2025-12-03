@@ -168,9 +168,11 @@ footer_cta:
         <figure><img class="w-auto" src="/ishs2026/assets/img/photos/facilities1.jpg" alt="" /></figure>
       </div>
       <div class="col-lg-6">
-        <h2 class="display-4 mb-3">Common Questions</h2>
-        <p class="lead fs-lg mb-6 pe-xxl-10">If you don't see an <span class="underline">answer to your question</span>, you can send us an email from our contact form.</p>
-        Ooo
+        <h2 class="display-4 mb-3">Welcome to Niterói, Brazil</h2>
+        <p class="lead fs-lg mb-6 pe-xxl-10">The 2026 ISHS Conference will take place at Fluminense Federal University, in Niterói, Brazil
+
+.</p>
+        Niterói, a neighboring city to the internationally renowned Rio de Janeiro, is home to the main campus of Fluminense Federal University (Universidade Federal Fluminense, or simply UFF), one of Brazil’s most prestigious institutions. We look forward to seeing you at the first humor conference in Latin America, and the first in the Global South.
           
       </div>
     </div>

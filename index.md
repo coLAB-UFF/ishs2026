@@ -138,6 +138,12 @@ footer_cta:
 ---
 <div class="content-wrapper">
 <header class="wrapper bg-light">
+  
+  <div class="alert alert-success alert-icon alert-dismissible fade show" role="alert">
+  <i class="uil uil-check-circle"></i> A simple success alert with <a href="#" class="alert-link hover">an example link</a>.
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+  
 {% include components/navbar/navbar.html 
     topAlert=false
     wrapperClass="bg-soft-primary"

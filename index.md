@@ -160,6 +160,24 @@ footer_cta:
 {% include components/sections/demo21/hero.html %}
 {% include components/sections/demo21/services.html %}
 {% include components/sections/demo21/strategy.html %}
+
+<section class="wrapper bg-light">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10">
+      <div class="col-lg-6">
+        <figure><img class="w-auto" src="/assets/img/illustrations/i5.webp" srcset="/assets/img/illustrations/i5@2x.webp 2x" alt="" /></figure>
+      </div>
+      <div class="col-lg-6">
+        <h2 class="display-4 mb-3">Common Questions</h2>
+        <p class="lead fs-lg mb-6 pe-xxl-10">If you don't see an <span class="underline">answer to your question</span>, you can send us an email from our contact form.</p>
+        Ooo
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 {% include components/sections/demo21/why-us.html %}
 {% include components/sections/demo21/company-facts.html %}
 {% include components/sections/demo21/faq.html %}

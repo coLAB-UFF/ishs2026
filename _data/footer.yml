@@ -40,7 +40,7 @@ column_3:
       
 newsletter:
   title: About the ISHS
-  description: Know more about the International Society for Humor Studies on the <a href="http://humorstudies.org">official website</a>
+  description: Know more about the International Society for Humor Studies on the <a href="http://humorstudies.org">official website</a><br><img src="assets/img/illustrations/humorstudies_logo.png">
   button_text: Join
   # Optional custom HTML form
   custom_form: ""

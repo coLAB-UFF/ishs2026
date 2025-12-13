@@ -3,37 +3,37 @@
     {
       "name": "Client 1",
       "image": "/assets/img/brands/client_ishs.png",
-      "url": "#"
+      "url": "https://www.humorstudies.org/"
     },
     {
       "name": "Client 2",
       "image": "/assets/img/brands/client_uff.png",
-      "url": "#"
+      "url": "https://www.uff.br/"
     },
     {
       "name": "Client 3",
       "image": "/assets/img/brands/client_ppgcom.png",
-      "url": "#"
+      "url": "https://ppgcom.uff.br/"
     },
     {
       "name": "Client 4",
       "image": "/assets/img/brands/client_inctdd.png",
-      "url": "#"
+      "url": "https://inctdd.org/"
     },
         {
       "name": "Client 5",
       "image": "/assets/img/brands/client_cnpq.png",
-      "url": "#"
+      "url": "https://www.gov.br/cnpq/pt-br"
     },
         {
       "name": "Client 6",
       "image": "/assets/img/brands/client_capes.png",
-      "url": "#"
+      "url": "https://www.gov.br/capes/pt-br"
     },
         {
       "name": "Client 7",
       "image": "/assets/img/brands/client_faperj.png",
-      "url": "#"
+      "url": "https://faperj.br/"
     }
   ]
 }

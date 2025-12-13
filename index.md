@@ -165,7 +165,7 @@ footer_cta:
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10">
       <div class="col-lg-6">
-        <figure><img class="w-auto" src="/ishs2026/assets/img/photos/facilities1.jpg" alt="" /></figure>
+        <figure><img class="w-auto" src="/assets/img/photos/facilities1.jpg" alt="" /></figure>
       </div>
       <div class="col-lg-6">
         <h2 class="display-4 mb-3">Welcome to Niterói, Brazil</h2>

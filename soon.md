@@ -15,7 +15,7 @@ cta1:
   text: "Something great is on the way! Check back soon to see what we’ve been working on. Registration will open on January 19, 2026"
   button:
     label: "Back to Home"
-    url: "https://colab-uff.github.io/ishs2026/"
+    url: "https://ishs2026.org"
     style: "btn btn-primary rounded-pill"
     
 ---
@@ -36,7 +36,7 @@ cta1:
 <!-- /header -->
 
 <section class="wrapper image-wrapper bg-auto no-overlay bg-image text-center py-14 py-md-16 bg-map" data-image-src="">
-  <div class="container py-0 py-md-18" style="background: url('https://colab-uff.github.io/ishs2026/assets/img/12236954_4889834.png'); background-size: contain; background-repeat: no-repeat;">
+  <div class="container py-0 py-md-18" style="background: url('/assets/img/12236954_4889834.png'); background-size: contain; background-repeat: no-repeat;">
     <div class="row">
       <div class="col-lg-6 col-xl-5 mx-auto">
         <h2 class="display-4 mb-3 text-center">{{ page.cta1.title }}</h2>

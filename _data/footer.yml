@@ -37,6 +37,13 @@ column_3:
       url: /call_roundtables
     - title: Local Committee
       url: /organizing
+
+  social:
+    enabled: true
+    class: social-muted mb-0 text-md-end
+    links:
+      - icon: uil uil-instagram
+        url: "https://www.instagram.com/ishs2026"
       
 newsletter:
   title: About the ISHS
@@ -44,6 +51,7 @@ newsletter:
   button_text: Join
   # Optional custom HTML form
   custom_form: ""
+
   
 # Centered Footer
 centered:
@@ -260,4 +268,4 @@ minimal_alt:
     class: social-muted mb-0 text-md-end
     links:
       - icon: uil uil-instagram
-        url: "https://www.instagram.com/humorstudies"
+        url: "https://www.instagram.com/ishs2026"

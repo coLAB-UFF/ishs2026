@@ -19,6 +19,21 @@
       "name": "Client 4",
       "image": "/assets/img/brands/client_inctdd.png",
       "url": "#"
+    },
+        {
+      "name": "Client 5",
+      "image": "/assets/img/brands/client_cnpq.png",
+      "url": "#"
+    },
+        {
+      "name": "Client 6",
+      "image": "/assets/img/brands/client_capes.png",
+      "url": "#"
+    },
+        {
+      "name": "Client 7",
+      "image": "/assets/img/brands/client_faperj.png",
+      "url": "#"
     }
   ]
 }

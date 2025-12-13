@@ -2,6 +2,6 @@ social_accounts:
   title: "Follow Us"
   links_shown: 4
   links:
-    - url: "instagram.com/ishs2026"
+    - url: "https://instagram.com/ishs2026"
       icon: "uil uil-instagram"
       text: "Instagram"

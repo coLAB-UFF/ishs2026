@@ -53,3 +53,6 @@ In case you choose to submit your paper in Portuguese, no other action is requir
 
 For papers that are part of pre-organized panels, the submission is made directly by the panel proposer. In this case, individual paper proposers should not submit their proposals in duplicate. Authors of short abstracts are also allowed to submit panels and roundtables proposals, if they so wish. However, authors of short abstracts may submit a maximum of two paper proposals, with only one as the main author.
 
+### Proceedings and full papers
+
+To submit, authors are required to provide only a short abstract. Only those who wish to apply for the ISHS 2026 best paper award must submit a full paper, following instructions to be provided in due course. All accepted abstracts will be published in the conference proceedings.

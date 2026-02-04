@@ -52,3 +52,7 @@ Also, the conference will not feature pre-organized panels in Portuguese, with t
 ### Individual Papers
 
 If you are submitting a pre-organized panel, please note that there is no need to submit the individual papers beforehand. You only need to list them during the registration of your panel.
+
+### Proceedings and full papers
+
+To submit, authors are required to provide only a short abstract. Only those who wish to apply for the ISHS 2026 best paper award must submit a full paper, following instructions to be provided in due course. All accepted abstracts will be published in the conference proceedings.

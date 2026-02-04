@@ -25,7 +25,7 @@ additional_content: |
   <h2 class="mb-4">Organizing Committee</h2>
   <p>The organizing committee also benefits from the extensive experience of its members, including the following members:
   <p><strong>Viktor Chagas</strong>, associate professor at the Universidade Federal Fluminense <em>(co-chair)</em></p>
-  <p><strong>João Paulo Capelotti</strong>, post-doctoral fellowship at the Universidade Federal Fluminense <em>(co-chair)</em></p>
+  <p><strong>João Paulo Capelotti</strong>, post-doctoral fellow at the Universidade Federal Fluminense <em>(co-chair)</em></p>
   <p><strong>Benjamim Picado</strong>, full professor and coordinator of the Graduate Program in Communication (PPGCOM) at the Universidade Federal Fluminense</p>
   <p><strong>José Messias</strong>, assistant professor at the Universidade Federal Fluminense</p>
   <p><strong>Denise Margonari Favaro</strong>, full professor at the Universidade do Estado de São Paulo Araraquara (Unesp Araraquara)</p>
@@ -33,8 +33,9 @@ additional_content: |
   <p><strong>Rodrigo Carreiro</strong>, research director and co-executive director of the think tank Aláfia Lab</p>
   <br>
   <h2 class="mb-4">Support Staff</h2>
-  <p><strong>Daniel Rios</strong>, designer, post-doctoral fellowship at the Universidade Federal Fluminense</p>
+  <p><strong>Daniel Rios</strong>, designer, post-doctoral fellow at the Universidade Federal Fluminense</p>
   <p><strong>Carlos Bonifácio</strong>, social media content strategy, master's candidate at the Universidade Federal Fluminense</p>
+  <p><strong>Natalia Dias</strong>, conference production, PhD in Communication from Universidade Federal Fluminense</p>
     
   <p>The undergraduate and graduate students of communication in UFF, as well as the members of coLAB, will be of great help in the registration process and in the daily issues of the conference. UFF’s personnel will provide technical help for plenary and panel sessions, particularly the ones with remote participants.</p>
 ---

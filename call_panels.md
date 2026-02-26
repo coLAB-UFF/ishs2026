@@ -15,7 +15,7 @@ additional_content: |
 
 ---
 
-The ISHS welcomes papers from the numerous expertises, such as social sciences, communication and media studies, anthropology, political science, history, psychology, education, linguistics and translation, folklore, computational sciences and engineering, robotics, law, among others. 
+Panels are sessions of papers presented in a self-managed format. The ISHS welcomes papers from the numerous expertises, such as social sciences, communication and media studies, anthropology, political science, history, psychology, education, linguistics and translation, folklore, computational sciences and engineering, robotics, law, among others. 
 
 The abstracts submitted to the conference are assembled into panels, bringing together works on similar subjects. These panels can be created by the conference organizers or proposed by conference attendees answering to this call. Any individual can propose a panel, as long as they can gather a sufficient number of proposals organically organized around a theme.
 
@@ -23,7 +23,7 @@ Panel proponents receive and analyze paper submissions to their panels autonomou
 
 Each proponent is also responsible for publicizing the call for papers for their panel, and by gathering all the necessary information for the submission. Upon request, the conference organizers can help spread the word about each call for panels in the conference's website and social media. To submit your panel proposal, please click on register now at the bottom of this page, and submit your related papers. In case of any doubt, please write to the conference convenors at humorstudies@midia.uff.br
 
-Please submit your proposal by February 27, 2026, using the button below.
+Please submit your proposal by ~~February 27, 2026~~ **March 27, 2026** (*extended deadline*), using the button below.
 
 ### Manuscript Format
 

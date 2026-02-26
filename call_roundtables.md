@@ -23,7 +23,7 @@ Roundtables may have one or two main proponents, and are freely organized. They 
 
 Each proponent is also responsible for gathering all the necessary information for the submission. To submit your rountable, please click on register now at the bottom of this page, and submit your proposal. In case of any doubt, please write to the conference convenors at humorstudies@midia.uff.br
 
-Please submit your proposal by February 27, 2026, using the button below.
+Please submit your proposal by ~~February 27, 2026~~ **March 27, 2026** (*extended deadline*), using the button below.
 
 ### Format
 

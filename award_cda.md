@@ -21,7 +21,7 @@ In order to be eligible to the award, you must:
 
 •	register for and attend the 2026 ISHS Conference
 
-•	submit an independently written conference paper (papers co-authored by an advisor are ineligible)
+•	submit an independently written conference paper (papers must be in English, and papers co-authored by an advisor are ineligible)
 
 Please email all documents in a single file to <a href="mailto:humorstudies@midia.uff.br">humorstudies@midia.uff.br</a> with “Student Awards” as the subject line:
 

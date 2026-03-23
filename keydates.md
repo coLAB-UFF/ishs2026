@@ -32,9 +32,9 @@ Below is the conferences's deadline schedule.
 | --- | --- |
 | Panel Proposal Submission | Until ~~February 27~~ **March 27** (*extended deadline*) |
 | Roundtable Proposal Submission | Until ~~February 27~~ **March 27** (*extended deadline*) |
-| Short Abstract Submission | Until March 27 (*non-extendable deadline*) |
-| Acceptance of Panel Proposals | After March 16 |
-| Acceptance of Short Abstracts | May 6 |
+| Short Abstract Submission | **Until March 27** (*non-extendable deadline*) |
+| Acceptance of Panel Proposals | ~~After March 16~~ **May 6** |
+| Acceptance of Short Abstracts | **May 6** |
 
 <sub>* No posters will be accepted for the conference.</sub>
 

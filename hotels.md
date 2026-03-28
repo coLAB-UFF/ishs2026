@@ -18,9 +18,12 @@ gallery:
 
 # Additional content block appears after gallery
 additional_content: |
+  <p>Hotels highlighted in the list below have confirmed they are offering discounts to ISHS 2026 Conference attendees. Book directly through the hotel's website or by phone and ask about the discount when confirming your reservation.</p>
+  <br>
   <div class="alert" style="color:#155724;background-color:#d4edda;border:1px solid #c3e6cb;">
   <h2 class="mb-4"><a href="https://hniteroi.com.br/">H Niterói Hotel</a></h2>
   <p><small>Hotel Rating: ⭐⭐⭐⭐</small></p>
+  <p><small>Address: Rua Dr. Paulo Alves, 14 – Ingá – Niterói – RJ</small></p>
   <p>Located near the iconic Niterói Museum of Contemporary Art, H Niterói is a sophisticated 4-star hotel featuring an outdoor pool, sauna, and an on-site restaurant. Additional amenities include a gym and complimentary Wi-Fi. Icaraí Beach is just 50 meters away. Rooms are equipped with air conditioning, cable TV, a minibar, and a hairdryer. The hotel is approximately a 7-minute drive from the IACS Gragoatá campus.</p>
   </div>
   <br>

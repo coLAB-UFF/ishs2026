@@ -23,10 +23,21 @@ additional_content: |
   <div class="alert" style="color:#155724;background-color:#d4edda;border:1px solid #c3e6cb;">
   <h2 class="mb-4"><a href="https://hniteroi.com.br/">H Niterói Hotel</a></h2>
   <p><small>Hotel Rating: ⭐⭐⭐⭐</small></p>
-  <p><small>Address: Rua Dr. Paulo Alves, 14 – Ingá – Niterói – RJ</small></p>
+  <p><small>Address: Rua Dr. Paulo Alves, 14 – Ingá – Niterói – RJ. Phone: +55 21 3172‑5050</small></p>
   <p>Located near the iconic Niterói Museum of Contemporary Art, H Niterói is a sophisticated 4-star hotel featuring an outdoor pool, sauna, and an on-site restaurant. Additional amenities include a gym and complimentary Wi-Fi. Icaraí Beach is just 50 meters away. Rooms are equipped with air conditioning, cable TV, a minibar, and a hairdryer. The hotel is approximately a 7-minute drive from the IACS Gragoatá campus.</p>
   </div>
   <br>
+  <div class="alert" style="color:#155724;background-color:#d4edda;border:1px solid #c3e6cb;">
+  <h2 class="mb-4"><a href="http://atlanticahotels.com.br">Hotel Niterói by Atlantica</a></h2>
+  <p><small>Hotel Rating: ⭐⭐⭐⭐</small></p>
+  <p><small>Address: Rua Engenheiro Roberto Velasco Cardoso, 321 – Gragoatá – Niterói – RJ. Phone: +55 21 2707‑5700</small></p>
+  <p>Hotel Niterói by Atlântica is a modern seaside hotel offering comfortable rooms with ocean views and convenient access to downtown Niterói. It combines contemporary design, business-friendly amenities, and proximity to cultural landmarks and beaches.</p>
+  </div>
+  <br>
+
+
+
+  
   <h2 class="mb-4"><a href="https://matizniteroidesignhotel.com-hotel.com/en/">Matiz Niterói Design Hotel</a></h2>
   <p>This three-star hotel is located just 50 meters from Icaraí Beach and about 4 km from the Museum of Contemporary Art. Its spacious rooms feature air conditioning, satellite TV, a minibar, and free Wi-Fi. The hotel also has a fitness center staffed by trained professionals. It is a 12-minute drive from IACS Gragoatá.</p>
   <br>

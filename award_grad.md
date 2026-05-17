@@ -30,3 +30,5 @@ Please email all documents in a single file to <a href="mailto:humorstudies@midi
 •	a curriculum vitae
 
 •	a conference paper abstract by <strong>May 30, 2026</strong>
+
+Award recipients present their papers in a special plenary session and receive stipends in the amounts of $300 for the Graduate Student Awards.

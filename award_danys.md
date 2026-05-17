@@ -33,3 +33,4 @@ Please email all documents in a single file to <a href="mailto:humorstudies@midi
 
 •	a completed conference paper plus abstract by <strong>May 30, 2026</strong>
 
+Award recipients present their papers in a special plenary session and receive stipends in the amounts of $500 for the DANYS.

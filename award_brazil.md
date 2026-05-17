@@ -31,4 +31,4 @@ Please email all documents in a single file to <a href="mailto:humorstudies@midi
 
 • a curriculum vitae
 
-• a doctoral thesis by <strong>March 30, 2026</strong>
+• a doctoral thesis by <strong>May 30, 2026</strong>

@@ -43,7 +43,7 @@ Below is the conferences's deadline schedule.
 
 | Description | Deadline |
 | --- | --- |
-| PhD Dissertation Submission | Until March 30 |
+| PhD Dissertation Submission | ~~Until March 30~~ Until May 30 |
 | Full Paper Submission | Until May 30 |
 
 

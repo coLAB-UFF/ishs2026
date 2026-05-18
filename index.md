@@ -85,10 +85,10 @@ company_facts:
   text: Based on previous years, our expectations are high.
   counters:
     - icon: uil uil-presentation-check
-      count: 300+
+      count: 250+
       text: Expected Submissions
     - icon: uil uil-user-check
-      count: 500+
+      count: 150+
       text: Scholars and Students
     - icon: uil uil-trophy
       count: 4+

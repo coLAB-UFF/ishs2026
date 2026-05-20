@@ -57,5 +57,5 @@ Please email all documents in a single file to <a href="mailto:humorstudies@midi
 
 The ISHS Awards Committee will review each applicant’s materials and, based on merit, make one recommendation for the DANYS Award, one recommendation for the CDA, and two recommendations for GSAs. The Committee will present its recommendations to the ISHS Executive Board for final approval, and the Board will notify the award recipients of their awards in advance of the Society’s annual Conference.
 
-The award recipients will present their work at a special session of the ISHS annual conference and will receive certificates of achievement. The DANYS recipient will receive a stipend of $500 and the CDA and GSA recipients will each receive a stipend of $250.
+The award recipients will present their work at a special session of the ISHS annual conference and will receive certificates of achievement. The DANYS recipient will receive a stipend of $500 and the CDA and GSA recipients will each receive a stipend of $300.
 

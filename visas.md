@@ -17,4 +17,16 @@ For detailed visa information, please visit: [https://brazil.vfsevisa.com/](http
 
 If you need an invitation letter to support your visa application, please contact [humorstudies@midia.uff.br](humorstudies@midia.uff.br). Invitation letters are issued only to participants with either an accepted ISHS 2026 submission or a completed conference registration.
 
-If you have any questions or need assistance, feel free to reach out.
+**Health tips**
+
+Wear comfortable clothes. Protect your skin and drink water.
+
+**Vaccination**
+
+No vaccinations are required to enter Brazil. However, if you plan to visit other regions than the state of Rio de Janeiro, be aware that vaccination is recommended for some regions before visiting, especially in rural or forest areas. Check for more information before traveling, taking into account the region you are going to.
+
+**Covid-19**
+
+Foreign tourists can enter Brazil without proof of a Covid test or proof of vaccination.
+
+For more information: please check [Visit Brasil](https://visitbrasil.com/en/home/about-brazil/health-services-and-vaccinations/)

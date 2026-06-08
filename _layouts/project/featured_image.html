@@ -29,8 +29,10 @@ layout: default
     <div class="row">
       <div class="col-12">
         <article class="mt-n21">
+          {% if page.hero_image %}
           <figure class="rounded mb-8 mb-md-12"><img src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}" /></figure>
-          <div class="row">
+          {% endif %}
+         <div class="row">
             <div class="col-lg-10 offset-lg-1">
               <h2 class="display-6 mb-4">{{ page.about_title }}</h2>
               <div class="row gx-0">

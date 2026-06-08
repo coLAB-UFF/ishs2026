@@ -5,6 +5,7 @@ description: "ISHS 2026 Full Programme."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
+thumbnail: ""
 about_title: ""
 
 

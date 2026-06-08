@@ -11,7 +11,7 @@ about_title: "Conference Schedule"
 
 # Additional content block appears after gallery
 additional_content: |
-  <iframe src="https://colab-uff.github.io/ishs_programme/?view=1" width="1100" height="650" frameborder="0" style="border:none;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,.12)"></iframe>
+  <iframe src="https://colab-uff.github.io/ishs_programme/?view=1" width="1100" height="3650" frameborder="0" style="border:none;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,.12)"></iframe>
   
 ---
 

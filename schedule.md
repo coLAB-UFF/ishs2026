@@ -5,9 +5,6 @@ description: "ISHS 2026 Full Programme."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: ""
-hero_image: ""
-about_title: "Conference Schedule"
 
 # Additional content block appears after gallery
 additional_content: |

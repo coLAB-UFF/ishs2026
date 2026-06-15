@@ -35,13 +35,6 @@ additional_content: |
   </div>
   <br>
   <div class="alert" style="color:#155724;background-color:#d4edda;border:1px solid #c3e6cb;">
-  <h2 class="mb-4"><a href="http://solardoamanhecer.com.br">Solar do Amanhecer</a></h2>
-  <p><small>Hotel Rating: ⭐⭐⭐⭐</small></p>
-  <p><small>Address: Av. Prefeito Sílvio Picanço, 839 – Charitas – Niterói – RJ. Phone: +55 21 2610‑5221</small></p>
-  <p>Hotel Solar do Amanhecer is a beachfront hotel in Charitas offering amenities such as a pool, sauna, fitness center, restaurant, and event spaces, with panoramic views of Guanabara Bay. It is located roughly 15–20 minutes by car from the Gragoatá area (near UFF campus), ensuring convenient access while remaining in a quieter seaside neighborhood.</p>
-  </div>
-  <br>
-  <div class="alert" style="color:#155724;background-color:#d4edda;border:1px solid #c3e6cb;">
   <h2 class="mb-4"><a href="https://icaraipraiahotel.com.br/">Icaraí Praia Hotel</a></h2>
   <p><small>Hotel Rating: ⭐⭐⭐</small></p>
   <p><small>Address: Rua Belisário Augusto, 21 - Icaraí - Niterói – RJ. Phone: +55 21 2612‑5030 / +55 21 99373‑7712</small></p>
@@ -137,6 +130,10 @@ additional_content: |
   <br>
    <h2 class="mb-4"><a href="https://www.icaraisuites.com.br/">Icaraí Suites</a></h2>
   <p>Icaraí Suites offers comfortable suites and an open green area surrounded by nature. It is located approximately 14 minutes by car from the IACS Gragoatá campus.</p>
+  <br>
+  <h2 class="mb-4"><a href="http://solardoamanhecer.com.br">Solar do Amanhecer</a></h2>
+  <p>Hotel Solar do Amanhecer is a beachfront hotel in Charitas offering amenities such as a pool, sauna, fitness center, restaurant, and event spaces, with panoramic views of Guanabara Bay. It is located roughly 15–20 minutes by car from the Gragoatá area (near UFF campus), ensuring convenient access while remaining in a quieter seaside neighborhood.</p>
+  <br>
 ---
 
 With a population of approximately 500,000 inhabitants, Niterói is considered a medium-sized city by Brazilian standards. It boasts a well-developed hospitality network, with numerous hotels located relatively close to the university. Unfortunately, UFF does not provide accommodations for visitors, as its student housing requires prior registration and operates with a waiting list. Nevertheless, the city offers a wide range of lodging options. A selection of recommended hotels is listed below.

@@ -48,11 +48,9 @@ main:
         url: /keydates
       - title: Conference Schedule
         url: /schedule/
+      - title: Room Map
+        url: /roommap/
       - title: Keynotes
-        url: /soon/
-      - title: Roundtables
-        url: /soon/
-      - title: Panels
         url: /soon/
   - title: Plan Your Trip
     type: dropdown-columns

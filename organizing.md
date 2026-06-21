@@ -33,8 +33,8 @@ additional_content: |
   <p><strong>Rodrigo Carreiro</strong>, research director and co-executive director of the think tank Aláfia Lab</p>
   <br>
   <h2 class="mb-4">Support Staff</h2>
-    <p><strong>Conference Producer: Natalia Dias</strong></p>
-    <p><strong>Assistant Producers: Arthur Faria, Bhryan Barbosa, Carlos Bonifácio, Clara Balbi, Clara Ramos, Cristhiane Malungo, Daniel Rios, Dindara Rocha, Elisa Matos, Guilherme Coelho Sala, Ivanildo Carvalho, Karen de Paula, Letícia Sabbatini, Luiza Vimercate, Matheus Machado, Mavi Braga, Natália Ayrosa, Thalita Santos, Valentina Bomfim</p>
+    <p>Conference Producer: <strong>Natalia Dias</strong></p>
+    <p>Assistant Producers (alphabetic order): <strong>Arthur Faria, Bhryan Barbosa, Carlos Bonifácio, Clara Balbi, Clara Ramos, Cristhiane Malungo, Daniel Rios, Dindara Rocha, Elisa Matos, Guilherme Coelho Sala, Ivanildo Carvalho, Karen de Paula, Letícia Sabbatini, Luiza Vimercate, Matheus Machado, Mavi Braga, Natália Ayrosa, Thalita Santos, Valentina Bomfim</strong></p>
   <br>
   <p>The Media Studies undergraduate and Communication graduate students in UFF, as well as the members of coLAB, provided technical help for plenary and panel sessions, particularly the ones with remote participants.</p>
 ---

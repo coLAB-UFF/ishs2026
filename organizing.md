@@ -33,10 +33,9 @@ additional_content: |
   <p><strong>Rodrigo Carreiro</strong>, research director and co-executive director of the think tank Aláfia Lab</p>
   <br>
   <h2 class="mb-4">Support Staff</h2>
-  <p><strong>Daniel Rios</strong>, designer, post-doctoral fellow at the Universidade Federal Fluminense</p>
-  <p><strong>Carlos Bonifácio</strong>, social media content strategy, master's candidate at the Universidade Federal Fluminense</p>
-  <p><strong>Natalia Dias</strong>, conference production, PhD in Communication from Universidade Federal Fluminense</p>
-    
+    <p><strong>Conference Producer: Natalia Dias</strong></p>
+    <p><strong>Assistant Producers: Arthur Faria, Bhryan Barbosa, Carlos Bonifácio, Clara Balbi, Clara Ramos, Cristhiane Malungo, Daniel Rios, Dindara Rocha, Elisa Matos, Guilherme Coelho Sala, Ivanildo Carvalho, Karen de Paula, Letícia Sabbatini, Luiza Vimercate, Matheus Machado, Mavi Braga, Natália Ayrosa, Thalita Santos, Valentina Bomfim</p>
+
   <p>The undergraduate and graduate students of communication in UFF, as well as the members of coLAB, will be of great help in the registration process and in the daily issues of the conference. UFF’s personnel will provide technical help for plenary and panel sessions, particularly the ones with remote participants.</p>
 ---
 

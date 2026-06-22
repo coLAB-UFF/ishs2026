@@ -52,6 +52,8 @@ main:
         url: /roommap/
       - title: Keynotes
         url: /soon/
+      - title: Proceedings
+        url: /proceedings/
   - title: Plan Your Trip
     type: dropdown-columns
     items:

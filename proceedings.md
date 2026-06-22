@@ -1640,3 +1640,22 @@ function filterProc() {
 </div>
 
 </div>
+
+<button id="back-to-top"
+  onclick="window.scrollTo({top:0,behavior:'smooth'})"
+  title="Back to top"
+  style="position:fixed;bottom:2rem;right:2rem;
+         width:44px;height:44px;border-radius:50%;border:none;cursor:pointer;
+         background:linear-gradient(135deg,#45c4a0,#2fa882);
+         color:#fff;font-size:1.25rem;line-height:1;
+         box-shadow:0 4px 14px rgba(0,0,0,.18);
+         display:none;align-items:center;justify-content:center;
+         transition:opacity .2s,transform .2s;z-index:9999;">&#8679;</button>
+<script>
+(function(){
+  var btn = document.getElementById("back-to-top");
+  window.addEventListener("scroll", function(){
+    btn.style.display = window.scrollY > 300 ? "flex" : "none";
+  });
+})();
+</script>

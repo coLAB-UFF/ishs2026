@@ -1,16 +1,16 @@
 ---
-title: "Proceedings"
+title: "Conference Proceedings"
 category: "Proceedings"
-description: "Book of Abstracts — 36th ISHS Annual Conference, Niterói 2026."
+description: "Book of Abstracts — 36th ISHS Conference, Niterói, 2026."
 layout: project/featured_image
 custom_color: green
 custom_font: urbanist
-thumbnail: "/assets/img/photos/4895150.jpg"
-hero_image: "/assets/img/photos/4895150.jpg"
+thumbnail: "/assets/img/illustrations/8598875.png"
+hero_image: "/assets/img/illustrations/8598875.png"
 about_title: ""
 ---
 
-<p style="margin-bottom:1.5rem;">Book of Abstracts — 36th International Society for Humor Studies Annual Conference. Niterói, Brazil, July 6–10, 2026.</p>
+<p style="margin-bottom:1.5rem;">Search for an author or abstract using the navigation and filters below</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:1rem;">
   <button onclick="filterType('all')" id="btn-all" style="display:inline-block;padding:4px 11px;margin:2px;background:#45c4a0;color:#fff;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.9rem;cursor:pointer;border:none;">All</button>

@@ -34,7 +34,8 @@ additional_content: |
   <br>
   <h2 class="mb-4">Support Staff</h2>
     <p>Conference Producer: <strong>Natalia Dias</strong></p>
-    <p>Assistant Producers (alphabetic order): <strong>Arthur Faria, Bhryan Barbosa, Carlos Bonifácio, Clara Balbi, Clara Ramos, Cristhiane Malungo, Daniel Rios, Dindara Rocha, Elisa Matos, Gabriella da Costa, Guilherme Coelho Sala, Ivanildo Carvalho, Karen de Paula, Letícia Sabbatini, Luiza Vimercate, Matheus Machado, Mavi Braga, Natália Ayrosa, Thalita Santos, Valentina Bomfim</strong></p>
+    <p>Assistant Producers: <strong>Natália Ayrosa and Thalita Santos</strong></p>    
+    <p>Assistant Producers (alphabetic order): <strong>Arthur Faria, Bhryan Barbosa, Carlos Bonifácio, Clara Balbi, Clara Ramos, Cristhiane Malungo, Daniel Rios, Dindara Rocha, Elisa Matos, Felipe Santos, Gabriella da Costa, Giovani Oliveira de Almeida, Guilherme Coelho Sala, Ivanildo Carvalho, Karen de Paula, Letícia Sabbatini, Luiza Vimercate, Matheus Machado, Mavi Braga, Méfiu Silva, Valentina Bomfim</strong></p>
   <br>
   <p>The Media Studies undergraduate and Communication graduate students in UFF, as well as the members of coLAB, provided technical help for plenary and panel sessions, particularly the ones with remote participants.</p>
 ---

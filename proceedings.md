@@ -10,6 +10,10 @@ hero_image: "/assets/img/illustrations/8598875.png"
 about_title: ""
 ---
 
+<p>You can download the complete ISHS 2026 Book of Abstracts by clicking the button below.</p>
+
+<a href="http://doi.org/10.56465/ishs.2026.001" target="_blank" rel="noopener" class="btn btn-green rounded-pill" style="margin-bottom:1.5rem;">Download PDF</a>
+
 <p style="margin-bottom:1.5rem;">Search for an author or abstract using the navigation and filters below</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:1rem;">

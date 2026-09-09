@@ -12,7 +12,14 @@ about_title: ""
 
 <p>You can download the complete ISHS 2026 Book of Abstracts by clicking the button below.</p>
 
-<a href="http://doi.org/10.56465/ishs.2026.001" target="_blank" rel="noopener" class="btn btn-green rounded-pill" style="margin-bottom:1.5rem;">Download PDF</a>
+<a href="{{ '/pdf/ISHS2026_BookOfAbstracts.pdf' | relative_url }}" target="_blank" rel="noopener" style="display:inline-flex;align-items:stretch;text-decoration:none;font-family:SFMono-Regular,Menlo,Monaco,Consolas,monospace;font-size:0.9rem;font-weight:700;border-radius:8px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,0.08);">
+  <span style="background:#262b32;color:#fff;padding:10px 18px;display:flex;align-items:center;">Download PDF</span>
+  <span style="background:#45c4a0;color:#123b30;padding:10px 18px;display:flex;align-items:center;">DOI 10.56465/ishs.2026.001</span>
+</a>
+
+<p style="font-weight:700;font-size:1.05rem;margin-top:1.5rem;margin-bottom:0.5rem;">How to cite these proceedings:</p>
+
+<pre style="background:#1e2228;color:#f6f7f9;border-radius:8px;padding:16px 18px;margin-bottom:1.5rem;font-family:SFMono-Regular,Menlo,Monaco,Consolas,monospace;font-size:0.85rem;line-height:1.6;overflow-x:auto;"><code><span style="color:#7d8590;user-select:none;margin-right:14px;">1</span>Chagas, V., &amp; Capelotti, J. P. (Eds.). (2026). <em>36th Annual Conference of the International Society for Humor Studies: Book of abstracts</em>. Ed. dos Autores. https://doi.org/10.56465/ishs.2026.001</code></pre>
 
 <p style="margin-bottom:1.5rem;">Search for an author or abstract using the navigation and filters below</p>
 
